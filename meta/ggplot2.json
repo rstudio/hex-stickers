@@ -4,5 +4,6 @@
   "license": "CC0",
   "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/ggplot2.png",
   "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/ggplot2.svg",
-  "description": "ggplot2: Create Elegant Data Visualisations Using the Grammar of Graphics."
+  "description": "ggplot2: Create Elegant Data Visualisations Using the Grammar of Graphics.", 
+  "filename": "meta/ggplot2.json"
 }
