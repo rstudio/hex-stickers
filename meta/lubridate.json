@@ -4,5 +4,6 @@
   "license": "CC0",
   "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/lubridate.png",
   "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/lubridate.svg",
-  "description": "lubridate: Make Dealing with Dates a Little Easier."
+  "description": "lubridate: Make Dealing with Dates a Little Easier.", 
+  "filename": "meta/lubridate.json"
 }
