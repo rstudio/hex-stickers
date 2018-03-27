@@ -12,7 +12,7 @@ Remember to add a `.json` file in `meta/` with the metadata for each hex. Please
   "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/dplyr.png",
   "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/dplyr.svg",
   "description": "dplyr: A Grammar of Data Manipulation.",
-  "order_online_url": "https://www.stickermule.com/marketplace/"
+  "filename": "meta/dplyr.json"
 }
 ```
 make sure name only has lowercase letters, numbers and hyphens
