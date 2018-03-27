@@ -4,5 +4,6 @@
   "license": "CC0",
   "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/forcats.png",
   "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/forcats.svg",
-  "description": "forcats: Tools for Working with Categorical Variables (Factors)."
+  "description": "forcats: Tools for Working with Categorical Variables (Factors).", 
+  "filename": "meta/forcats.json"
 }
