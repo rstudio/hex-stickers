@@ -4,5 +4,6 @@
   "license": "CC0",
   "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/knitr.png",
   "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/knitr.svg",
-  "description": "knitr: A General-Purpose Package for Dynamic Report Generation in R."
+  "description": "knitr: A General-Purpose Package for Dynamic Report Generation in R.", 
+  "filename": "meta/knitr.json"
 }
