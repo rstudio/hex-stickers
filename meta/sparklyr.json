@@ -2,8 +2,8 @@
   "name": "sparklyr",
   "author": "rstudio",
   "license": "CC0",
-  "raster": "http://hexb.in/hexagons/sparklyr.png",
-  "vector": "http://hexb.in/vector/sparklyr.svg",
+  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/sparklyr.png",
+  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/sparklyr.svg",
   "description": "sparklyr: R Interface to Apache Spark.",
-  "order_online_url": "https://www.stickermule.com/marketplace/"
+  "filename": "meta/sparklyr.json"
 }
