@@ -2,8 +2,9 @@
 
 Derived from the https://github.com/maxogden hexbin project, here is a place to store all current hex stickers produced by RStudio.
 
-Remember to add a .json file in meta/ with the metadata for each hex. Please use this template:
+Remember to add a `.json` file in `meta/` with the metadata for each hex. Please use this template:
 
+```json
 {
   "name": "dplyr",
   "author": "rstudio",
@@ -13,5 +14,5 @@ Remember to add a .json file in meta/ with the metadata for each hex. Please use
   "description": "dplyr: A Grammar of Data Manipulation.",
   "order_online_url": "https://www.stickermule.com/marketplace/"
 }
-
+```
 make sure name only has lowercase letters, numbers and hyphens
