@@ -2,8 +2,8 @@
   "name": "magrittr",
   "author": "stefan milton bache",
   "license": "MIT",
-  "vector": "http://hexb.in/vector/magrittr.svg",
+  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/magrittr.png",
+  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/magrittr.svg",
   "description": "magrittr R package. http://github.com/smbache/magrittr",
-  "raster": "http://hexb.in/hexagons/magrittr.png",
   "filename": "meta/magrittr.json"
 }
