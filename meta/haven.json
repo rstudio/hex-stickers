@@ -4,5 +4,6 @@
   "license": "CC0",
   "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/haven.png",
   "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/haven.svg",
-  "description": "haven: Import and Export 'SPSS', 'Stata' and 'SAS' Files."
+  "description": "haven: Import and Export 'SPSS', 'Stata' and 'SAS' Files.", 
+  "filename": "meta/haven.json"
 }
