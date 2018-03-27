@@ -2,8 +2,8 @@
   "name": "testthat",
   "author": "rstudio",
   "license": "CC0",
-  "raster": "http://hexb.in/hexagons/testthat.png",
-  "vector": "http://hexb.in/vector/testthat.svg",
+  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/testthat.png",
+  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/testthat.svg",
   "description": "testthat: Unit Testing for R.",
-  "order_online_url": "https://www.stickermule.com/marketplace/"
+  "filename": "meta/testthat.json"
 }
