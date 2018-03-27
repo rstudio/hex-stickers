@@ -4,5 +4,6 @@
   "license": "CC0",
   "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/devtools.png",
   "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/devtools.svg",
-  "description": "devtools: Tools to Make Developing R Packages Easier."
+  "description": "devtools: Tools to Make Developing R Packages Easier.",
+  "filename": "meta/devtools.json"
 }
