@@ -2,8 +2,8 @@
   "name": "rvest",
   "author": "rstudio",
   "license": "CC0",
-  "raster": "http://hexb.in/hexagons/rvest.png",
-  "vector": "http://hexb.in/vector/rvest.svg",
+  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/rvest.png",
+  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/rvest.svg",
   "description": "rvest: Easily Harvest (Scrape) Web Pages.",
-  "order_online_url": "https://www.stickermule.com/marketplace/"
+  "filename": "meta/rvest.json"
 }
