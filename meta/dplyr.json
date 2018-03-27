@@ -4,5 +4,6 @@
   "license": "CC0",
   "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/dplyr.png",
   "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/dplyr.svg",
-  "description": "dplyr: A Grammar of Data Manipulation."
+  "description": "dplyr: A Grammar of Data Manipulation.", 
+  "filename": "meta/dplyr.json"
 }
