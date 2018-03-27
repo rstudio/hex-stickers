@@ -2,8 +2,8 @@
   "name": "tidyr",
   "author": "rstudio",
   "license": "CC0",
-  "raster": "http://hexb.in/hexagons/tidyr.png",
-  "vector": "http://hexb.in/vector/tidyr.svg",
+  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/tidyr.png",
+  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/tidyr.svg",
   "description": "tidyr: Easily Tidy Data with 'spread()' and 'gather()' Functions.",
-  "order_online_url": "https://www.stickermule.com/marketplace/"
+  "filename": "meta/tidyr.json"
 }
