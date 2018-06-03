@@ -2,6 +2,8 @@
 
 All RStudio hex logos as either [PNG](PNG/) or [SVG](SVG/).
 
+All stickers are under with [CC0](license.md).
+
 ## Adding new stickers
 
 When registering on [hexb.in](http://hexb.in), remember to add a `.json` file in `meta/` using this template:
