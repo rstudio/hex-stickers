@@ -1,8 +1,10 @@
-# hex-stickers
+# hex-stickers <img src="svg/R Studio.svg" width="120" align="right" />
 
-Derived from the https://github.com/maxogden hexbin project, here is a place to store all current hex stickers produced by RStudio.
+All RStudio hex logos as either [PNG](PNG/) or [SVG](SVG/).
 
-Remember to add a `.json` file in `meta/` with the metadata for each hex. Please use this template:
+## Adding new stickers
+
+When registering on [hexb.in](http://hexb.in), remember to add a `.json` file in `meta/` using this template:
 
 ```json
 {
@@ -15,4 +17,5 @@ Remember to add a `.json` file in `meta/` with the metadata for each hex. Please
   "filename": "meta/dplyr.json"
 }
 ```
-make sure name only has lowercase letters, numbers and hyphens
+
+Make sure name only has lowercase letters, numbers and hyphens
