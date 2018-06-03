@@ -1,6 +1,6 @@
 # hex-stickers <img src="svg/R%20Studio.svg" width="120" align="right" />
 
-All RStudio hex logos as either [PNG](PNG/) or [SVG](SVG/).
+All RStudio hex logos as either [PNG](PNG/#readme) or [SVG](SVG/#readme).
 
 All stickers are under with [CC0](license.md).
 
