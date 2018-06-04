@@ -15,7 +15,6 @@
 <a href="hms.png"><img src="hms.png" width="100"></a>
 <a href="knitr.png"><img src="knitr.png" width="100"></a>
 <a href="lubridate.png"><img src="lubridate.png" width="100"></a>
-<a href="master of the tidyverse.png"><img src="master of the tidyverse.png" width="100"></a>
 <a href="pipe.png"><img src="pipe.png" width="100"></a>
 <a href="plumber-male.png"><img src="plumber-male.png" width="100"></a>
 <a href="plummer-female.png"><img src="plummer-female.png" width="100"></a>
@@ -32,7 +31,6 @@
 <a href="rvest.png"><img src="rvest.png" width="100"></a>
 <a href="shiny.png"><img src="shiny.png" width="100"></a>
 <a href="sparklyr.png"><img src="sparklyr.png" width="100"></a>
-<a href="stanford data lab.png"><img src="stanford data lab.png" width="100"></a>
 <a href="stringr.png"><img src="stringr.png" width="100"></a>
 <a href="test that.png"><img src="test that.png" width="100"></a>
 <a href="tibble.png"><img src="tibble.png" width="100"></a>
