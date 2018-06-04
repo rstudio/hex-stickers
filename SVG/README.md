@@ -15,7 +15,6 @@
 <a href="hms.svg"><img src="hms.svg" width="100"></a>
 <a href="knitr.svg"><img src="knitr.svg" width="100"></a>
 <a href="lubridate.svg"><img src="lubridate.svg" width="100"></a>
-<a href="master of the tidyverse.svg"><img src="master of the tidyverse.svg" width="100"></a>
 <a href="pipe.svg"><img src="pipe.svg" width="100"></a>
 <a href="plumber-male.svg"><img src="plumber-male.svg" width="100"></a>
 <a href="plummer-female.svg"><img src="plummer-female.svg" width="100"></a>
@@ -32,7 +31,6 @@
 <a href="rvest.svg"><img src="rvest.svg" width="100"></a>
 <a href="shiny.svg"><img src="shiny.svg" width="100"></a>
 <a href="sparklyr.svg"><img src="sparklyr.svg" width="100"></a>
-<a href="stanford data lab.svg"><img src="stanford data lab.svg" width="100"></a>
 <a href="stringr.svg"><img src="stringr.svg" width="100"></a>
 <a href="test that.svg"><img src="test that.svg" width="100"></a>
 <a href="tibble.svg"><img src="tibble.svg" width="100"></a>
