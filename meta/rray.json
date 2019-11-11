@@ -1,0 +1,8 @@
+{
+  "name": "rray",
+  "author": "Davis Vaughan",
+  "license": "CC0",
+  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/rray.png",
+  "description": "rray: Simple Arrays",
+  "filename": "meta/rray.json"
+}
