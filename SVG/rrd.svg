@@ -201,16 +201,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.76435188"
-     inkscape:cx="107.38747"
-     inkscape:cy="282.52495"
+     inkscape:zoom="2.8314976"
+     inkscape:cx="249.57702"
+     inkscape:cy="288.18673"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -224,7 +224,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -267,21 +267,22 @@
        id="path840"
        style="opacity:1;fill:none;fill-opacity:0.97979796;stroke:#7f9fff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        sodipodi:type="star" />
-    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot929"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#7f9fff;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,292.98331,145.09052)"><flowRegion
-         id="flowRegion925"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#7f9fff;fill-opacity:1"><rect
-           id="rect923"
-           width="629.99744"
-           height="157.26808"
-           x="-803.91742"
-           y="114.74538"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#7f9fff;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara927"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:3.06000042px;fill:#7f9fff;fill-opacity:1">rrd</flowPara></flowRoot>    <g
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#7f9fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="80.280014"
+       y="198.62361"
+       id="text862"><tspan
+         sodipodi:role="line"
+         x="80.280014"
+         y="198.62361"
+         id="tspan860"
+         style="stroke-width:0.26458332"><tspan
+           x="80.280014"
+           y="198.62361"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0.80962509px;fill:#7f9fff;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan858">rrd</tspan></tspan></text>
+    <g
        id="g1095">
       <g
          transform="matrix(0.85632637,0,0,0.85632637,233.99258,-132.20593)"

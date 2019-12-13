@@ -247,16 +247,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3660186"
-     inkscape:cx="-53.860545"
-     inkscape:cy="97.508481"
+     inkscape:zoom="5.8705036"
+     inkscape:cx="120"
+     inkscape:cy="139"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer5"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -639,21 +639,28 @@
        d="m -548.54498,187.94833 -0.56252,-5.49806 1.09094,-1.52326 v -4.07593 c 0.19407,0.0623 0.39254,0.10334 0.59662,0.1031 0.20391,0 0.40255,-0.0408 0.59662,-0.1031 v 4.07593 l 1.09094,1.52326 -0.56252,5.49806 z m -0.72794,-14.69234 v -5.74744 c 0,-0.71425 0.41486,-1.29351 0.92658,-1.29375 h 1.8528 c 0.51189,0 0.92658,0.57901 0.92658,1.29375 v 5.74744 c 0,1.429 -0.82955,2.58728 -1.85298,2.58728 -1.02344,0 -1.85298,-1.15828 -1.85298,-2.58728 z"
        inkscape:connector-curvature="0"
        style="fill:#808080;stroke:#000000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none" />
-    <flowRoot
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="text">
+    <text
+       transform="translate(595.86565,-149.38123)"
        xml:space="preserve"
-       id="flowRoot843"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#073fb7;fill-opacity:1;stroke:none"
-       transform="matrix(0.33412194,0,0,0.33412194,-671.19265,-15.076264)"><flowRegion
-         id="flowRegion845"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#073fb7;fill-opacity:1"><rect
-           id="rect847"
-           width="180.228"
-           height="36.792351"
-           x="230.26045"
-           y="627.98303"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#073fb7;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara849"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.67506218px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';text-align:center;text-anchor:middle;fill:#073fb7;fill-opacity:1">rstudioapi</flowPara></flowRoot>  </g>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.23694277px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;display:inline;fill:#073fb7;fill-opacity:1;stroke:none;stroke-width:0.33412194"
+       x="-564.17767"
+       y="204.23434"
+       id="text926"><tspan
+         sodipodi:role="line"
+         x="-564.17767"
+         y="204.23434"
+         id="tspan924"
+         style="stroke-width:0.33412194"><tspan
+           x="-564.17767"
+           y="204.23434"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';text-align:center;text-anchor:middle;fill:#073fb7;fill-opacity:1;stroke-width:0.33412194"
+           id="tspan922">rstudioapi</tspan></tspan></text>
+  </g>
   <style
      id="style1402"
      type="text/css">
