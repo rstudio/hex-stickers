@@ -25,3 +25,7 @@ When registering on [hexb.in](http://hexb.in), remember to add a `.json` file in
 ```
 
 Make sure name only has lowercase letters, numbers and hyphens
+
+## Printing stickers
+
+Details are [here](./stickermule.md).
