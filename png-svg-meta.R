@@ -8,7 +8,7 @@ library(tidyverse)
 library(fs)
 
 list_packages <- function(folder) {
-  pkgs <- dir_ls(folder) %>%
+  pkgs <- dir_ls(folder, regexp = "[.][Rr]?md$", invert = TRUE) %>%
     path_file() %>%
     path_ext_remove()
   tibble(pkg = pkgs, !!folder := TRUE)
