@@ -1,0 +1,9 @@
+{
+  "name": "googlesheets4",
+  "author": "rstudio",
+  "license": "CC0",
+  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/googlesheets4.png",
+  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/googlesheets4.svg",
+  "description": "googlesheets4: Access Google Sheets using the Sheets API v4",
+  "filename": "meta/googlesheets4.json"
+}
