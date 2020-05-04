@@ -1,0 +1,8 @@
+{
+  "name": "renv",
+  "author": "rstudio",
+  "license": "CC0",
+  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/renv.svg",
+  "description": "renv: Project Environments for R.",
+  "filename": "meta/renv.json"
+}
