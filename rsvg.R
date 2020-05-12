@@ -7,11 +7,13 @@ library(rsvg)
 library(purrr)
 
 png <- dir_ls("png", glob = "*.png")
-dims <- purrr::map(png, ~ dim(png::readPNG(.x)))
-cbind(
-  dims %>% map_int(1),
-  dims %>% map_int(2)
+dims <- unname(purrr::map(png, ~ dim(png::readPNG(.x))))
+sizes <- data.frame(
+  pkg = path_ext_remove(path_file(png)),
+  height = dims %>% map_int(1),
+  width = dims %>% map_int(2)
 )
+subset(sizes, !height %in% c(2556, 2557))
 
 svg <- dir_ls("svg", glob = "*.svg")
 
