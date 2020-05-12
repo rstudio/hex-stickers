@@ -1,9 +1,0 @@
-{
-  "name": "shiny",
-  "author": "rstudio",
-  "license": "CC0",
-  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/shiny.png",
-  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/shiny.svg",
-  "description": "shiny: Web Application Framework for R.",
-  "filename": "meta/shiny.json"
-}

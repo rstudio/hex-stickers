@@ -1,9 +1,0 @@
-{
-  "name": "rvest",
-  "author": "rstudio",
-  "license": "CC0",
-  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/rvest.png",
-  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/rvest.svg",
-  "description": "rvest: Easily Harvest (Scrape) Web Pages.",
-  "filename": "meta/rvest.json"
-}
