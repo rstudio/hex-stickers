@@ -8,24 +8,21 @@ All stickers are licensed with [CC0](LICENSE.md).
 
 Many stickers can be purchased from <http://swag.rstudio.com/>.
 
-## Adding new stickers
-
-When registering on [hexb.in](http://hexb.in), remember to add a `.json` file in `meta/` using this template:
-
-```json
-{
-  "name": "dplyr",
-  "author": "rstudio",
-  "license": "CC0",
-  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/dplyr.png",
-  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/dplyr.svg",
-  "description": "dplyr: A Grammar of Data Manipulation.",
-  "filename": "meta/dplyr.json"
-}
-```
-
-Make sure name only has lowercase letters, numbers and hyphens
-
 ## Printing stickers
 
 Details are [here](./stickermule.md).
+
+## Adding new stickers
+
+If you're an RStudio employee, you can add new stickers to this repo by creating a pull request. The pull request should contain two files:
+
+* A `.svg` in the `SVG` directory (with fonts converted to outlines)
+* A `.png` in the `PNG` directory (with dimensions 2206 x 2557). 
+
+If you only have the `.svg`, you can use the following code to generate the `.png`:
+
+```R
+library(rsvg)
+pkg <- "foofy"
+rsvg_png(paste0("SVG/", pkg, ".svg"), paste0("PNG/", pkg, ".png"), height = 2557)
+```
