@@ -6,7 +6,7 @@ All stickers are licensed with [CC0](LICENSE.md).
 
 ## Buying stickers
 
-Unfortunately we don't currently have an easy way to sell individual stickers.
+Many stickers can be purchased from <http://swag.rstudio.com/>.
 
 ## Adding new stickers
 
