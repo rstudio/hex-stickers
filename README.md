@@ -6,17 +6,13 @@ All stickers are licensed with [CC0](LICENSE.md).
 
 ## Buying stickers
 
-Many stickers can be purchased from <http://swag.rstudio.com/>.
-
-## Printing stickers
-
-Details are [here](./stickermule.md).
+Many stickers can be purchased from <http://swag.rstudio.com/>. Or [see our instructions](./stickermule.md) on how to print them yourself.
 
 ## Adding new stickers
 
 If you're an RStudio employee, you can add new stickers to this repo by creating a pull request. The pull request should contain two files:
 
-* A `.svg` in the `SVG` directory (with fonts converted to outlines)
+* A `.svg` in the `SVG` directory (with fonts converted to outlines).
 * A `.png` in the `PNG` directory (with dimensions 2206 x 2557). 
 
 If you only have the `.svg`, you can use the following code to generate the `.png`:
