@@ -14,6 +14,7 @@ output: github_document
 <a href="feather.png"><img src="feather.png" width="100"></a> 
 <a href="forcats.png"><img src="forcats.png" width="100"></a> 
 <a href="fs.png"><img src="fs.png" width="100"></a> 
+<a href="furrr.png"><img src="furrr.png" width="100"></a> 
 <a href="ggplot2.png"><img src="ggplot2.png" width="100"></a> 
 <a href="glue.png"><img src="glue.png" width="100"></a> 
 <a href="googledrive.png"><img src="googledrive.png" width="100"></a> 

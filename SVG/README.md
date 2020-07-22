@@ -14,6 +14,7 @@ output: github_document
 <a href="feather.svg"><img src="feather.svg" width="100"></a> 
 <a href="forcats.svg"><img src="forcats.svg" width="100"></a> 
 <a href="fs.svg"><img src="fs.svg" width="100"></a> 
+<a href="furrr.svg"><img src="furrr.svg" width="100"></a> 
 <a href="ggplot2.svg"><img src="ggplot2.svg" width="100"></a> 
 <a href="glue.svg"><img src="glue.svg" width="100"></a> 
 <a href="googledrive.svg"><img src="googledrive.svg" width="100"></a> 
