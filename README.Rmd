@@ -2,7 +2,7 @@
 output: github_document
 ---
 
-# hex-stickers
+# RStudio hex stickers
 
 Want to buy a sticker? Many can be purchased from <http://swag.rstudio.com/>. Or [see our instructions](./stickermule.md) on how to print them yourself.
 
@@ -20,7 +20,7 @@ resize <- function(path_in, path_out) {
 }
 
 outdated <- !file.exists(thumb) | file.mtime(thumb) < file.mtime(png)
-purrr::walk2(png[outdated], thumb[outdated], resize)
+invisible(Map(resize, png[outdated], thumb[outdated]))
 ```
 
 ```{r, results = "asis", echo = FALSE}
