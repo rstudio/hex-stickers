@@ -5,8 +5,6 @@ Want to buy a sticker? Many can be purchased from
 <http://swag.rstudio.com/>. Or [see our instructions](./stickermule.md)
 on how to print them yourself.
 
-    ## named list()
-
 <table>
 
 <tr>
