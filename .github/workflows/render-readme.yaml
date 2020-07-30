@@ -1,0 +1,27 @@
+on:
+  push:
+    paths:
+      - README.Rmd
+
+name: Render README
+
+jobs:
+  render:
+    name: Render README
+    runs-on: macOS-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@v1
+      - uses: r-lib/actions/setup-pandoc@v1
+      - name: Install packages
+        run: |
+          install.packages(c("rmarkdown", "magick"))
+        shell: Rscript {0}
+      - name: Render README
+        run: Rscript -e 'rmarkdown::render("README.Rmd")'
+      - name: Commit results
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git commit README.md thumbs -m 'Re-build README.Rmd' || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
