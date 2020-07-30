@@ -20,7 +20,7 @@ resize <- function(path_in, path_out) {
 }
 
 outdated <- !file.exists(thumb) | file.mtime(thumb) < file.mtime(png)
-purrr::walk2(png[outdated], thumb[outdated], resize)
+Map(resize, png[outdated], thumb[outdated])
 ```
 
 ```{r, results = "asis", echo = FALSE}
