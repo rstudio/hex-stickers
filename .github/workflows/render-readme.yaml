@@ -10,8 +10,9 @@ jobs:
     runs-on: macOS-latest
     steps:
       - uses: actions/checkout@v2
+      - uses: r-lib/actions/pr-fetch@master
         with:
-          ref: ${{ github.event.pull_request.head.ref }}
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
       - uses: r-lib/actions/setup-r@master
       - uses: r-lib/actions/setup-pandoc@master
       - name: Install packages
@@ -27,4 +28,6 @@ jobs:
       - name: Commit results
         run: |
           git commit README.md thumbs -m 'Re-build README.Rmd' || echo "No changes to commit"
-          git push origin || echo "No changes to commit"
+      - uses: r-lib/actions/pr-push@master
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
