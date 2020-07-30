@@ -24,8 +24,8 @@ invisible(Map(resize, png[outdated], thumb[outdated]))
 ```
 
 ```{r, results = "asis", echo = FALSE}
-img <- glue::glue('<img src="{thumb}" width="120" height="139">')
-link <- glue::glue('[<a href="{png}">.png</a>, <a href="{svg}">.svg</a>]')
+img <- glue::glue('<img alt="Logo for {logos}" src="{thumb}" width="120" height="139">')
+link <- glue::glue('[<a href="{png}">{logos}.png</a>, <a href="{svg}">{logos}.svg</a>]')
 cell <- paste0("<td>", img, "<br />", link, "</td>")
 
 cols <- 5
