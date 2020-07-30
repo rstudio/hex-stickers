@@ -248,6 +248,18 @@ on how to print them yourself.
 
 <td>
 
+<img src="thumbs/furrr.png" width="120" height="139"><br />
+
+<center>
+
+\[<a href="PNG/furrr.png">.png</a>, <a href="SVG/furrr.svg">.svg</a>\]
+
+</center>
+
+</td>
+
+<td>
+
 <img src="thumbs/ggplot2.png" width="120" height="139"><br />
 
 <center>
@@ -258,6 +270,10 @@ on how to print them yourself.
 </center>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td>
 
@@ -270,10 +286,6 @@ on how to print them yourself.
 </center>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -326,6 +338,10 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img src="thumbs/gtable.png" width="120" height="139"><br />
@@ -337,10 +353,6 @@ on how to print them yourself.
 </center>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -391,6 +403,10 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img src="thumbs/lobstr.png" width="120" height="139"><br />
@@ -402,10 +418,6 @@ on how to print them yourself.
 </center>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -458,6 +470,10 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img src="thumbs/parsnip.png" width="120" height="139"><br />
@@ -470,10 +486,6 @@ on how to print them yourself.
 </center>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -525,6 +537,10 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img src="thumbs/purrr.png" width="120" height="139"><br />
@@ -536,10 +552,6 @@ on how to print them yourself.
 </center>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -589,6 +601,10 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img src="thumbs/readxl.png" width="120" height="139"><br />
@@ -600,10 +616,6 @@ on how to print them yourself.
 </center>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -655,6 +667,10 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img src="thumbs/rlang.png" width="120" height="139"><br />
@@ -666,10 +682,6 @@ on how to print them yourself.
 </center>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -722,6 +734,10 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img src="thumbs/RStudio.png" width="120" height="139"><br />
@@ -734,10 +750,6 @@ on how to print them yourself.
 </center>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -787,6 +799,10 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img src="thumbs/sparklyr.png" width="120" height="139"><br />
@@ -799,10 +815,6 @@ on how to print them yourself.
 </center>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -856,6 +868,10 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img src="thumbs/tibble.png" width="120" height="139"><br />
@@ -867,10 +883,6 @@ on how to print them yourself.
 </center>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -923,6 +935,10 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img src="thumbs/tidyverse.png" width="120" height="139"><br />
@@ -935,10 +951,6 @@ on how to print them yourself.
 </center>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -989,6 +1001,10 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img src="thumbs/workflows.png" width="120" height="139"><br />
@@ -1001,10 +1017,6 @@ on how to print them yourself.
 </center>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 

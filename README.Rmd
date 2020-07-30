@@ -18,7 +18,9 @@ resize <- function(path_in, path_out) {
   image <- image_resize(image, "278x")
   image_write(image, path_out)
 }
-# purrr::walk2(png, thumb, resize)
+
+outdated <- !file.exists(thumb) | file.mtime(thumb) < file.mtime(png)
+purrr::walk2(png[outdated], thumb[outdated], resize)
 ```
 
 ```{r, results = "asis", echo = FALSE}
