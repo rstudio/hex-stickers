@@ -1,6 +1,6 @@
 on:
   pull_request:
-    branches: *
+    branches: '*'
 
 name: Render README
 
