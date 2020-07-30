@@ -25,8 +25,9 @@ invisible(Map(resize, png[outdated], thumb[outdated]))
 
 ```{r, results = "asis", echo = FALSE}
 img <- glue::glue('<img alt="Logo for {logos}" src="{thumb}" width="120" height="139">')
-link <- glue::glue('[<a href="{png}">{logos}.png</a>, <a href="{svg}">{logos}.svg</a>]')
-cell <- paste0("<td>", img, "<br />", link, "</td>")
+png_link <- glue::glue('<a href="{png}">{logos}.png</a>')
+svg_link <- glue::glue('<a href="{svg}">{logos}.svg</a>')
+cell <- paste0("<td>", img, "<br />", png_link, "<br />", svg_link, "</td>")
 
 cols <- 5
 rows <- ceiling(length(cell) / cols)
@@ -35,7 +36,7 @@ row_id <- rep(seq_len(rows), each = cols, length.out = length(cell))
 row_cells <- split(cell, row_id)
 
 cat("<table>\n")
-cat(paste0("<tr>", sapply(row_cells, paste, collapse = "\n"), "</tr>"))
+cat(paste0("<tr>", sapply(row_cells, paste, collapse = ""), "</tr>"), sep = "")
 cat("</table>\n")
 ```
 
