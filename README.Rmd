@@ -1,0 +1,40 @@
+---
+output: github_document
+---
+
+# hex-stickers
+
+Want to buy a sticker? Many can be purchased from <http://swag.rstudio.com/>. Or [see our instructions](./stickermule.md) on how to print them yourself.
+
+```{r, echo = FALSE, message = FALSE}
+library(magick)
+logos <- tools::file_path_sans_ext(dir("PNG", pattern = "\\.png$"))
+png <- paste0("PNG/", logos, ".png")
+svg <- paste0("SVG/", logos, ".svg")
+thumb <- paste0("thumbs/", logos, ".png")
+
+resize <- function(path_in, path_out) {
+  image <- image_read(path_in)
+  image <- image_resize(image, "278x")
+  image_write(image, path_out)
+}
+# purrr::walk2(png, thumb, resize)
+```
+
+```{r, results = "asis", echo = FALSE}
+img <- glue::glue('<img src="{thumb}" width="120" height="139">')
+link <- glue::glue('<center>[<a href="{png}">.png</a>, <a href="{svg}">.svg</a>]</center>')
+cell <- paste0("<td>", img, "<br />", link, "</td>")
+
+cols <- 5
+rows <- ceiling(length(cell) / cols)
+
+row_id <- rep(seq_len(rows), each = cols, length.out = length(cell))
+row_cells <- split(cell, row_id)
+
+cat("<table>\n")
+cat(paste0("<tr>", sapply(row_cells, paste, collapse = "\n"), "</tr>"))
+cat("</table>\n")
+```
+
+All stickers are licensed [CC0](LICENSE.md).
