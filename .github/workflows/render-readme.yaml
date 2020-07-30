@@ -10,6 +10,8 @@ jobs:
     runs-on: macOS-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
       - uses: r-lib/actions/setup-r@master
       - uses: r-lib/actions/setup-pandoc@master
       - name: Install packages
@@ -22,7 +24,6 @@ jobs:
         run: |
           git config --local user.name "$GITHUB_ACTOR"
           git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
-          git checkout "${GITHUB_REF:11}"
       - name: Commit results
         run: |
           git commit README.md thumbs -m 'Re-build README.Rmd' || echo "No changes to commit"
