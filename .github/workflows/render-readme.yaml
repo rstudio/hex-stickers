@@ -18,9 +18,12 @@ jobs:
         shell: Rscript {0}
       - name: Render README
         run: Rscript -e 'rmarkdown::render("README.Rmd")'
+      - name: Configure Git
+        run: |
+          git config --local user.name "$GITHUB_ACTOR"
+          git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
+          git checkout "${GITHUB_REF:11}"
       - name: Commit results
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
           git commit README.md thumbs -m 'Re-build README.Rmd' || echo "No changes to commit"
           git push origin || echo "No changes to commit"
