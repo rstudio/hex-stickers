@@ -1,9 +1,0 @@
-{
-  "name": "readr",
-  "author": "rstudio",
-  "license": "CC0",
-  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/readr.png",
-  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/readr.svg",
-  "description": "readr: Read Tabular Data.",
-  "filename": "meta/readr.json"
-}
