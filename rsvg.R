@@ -13,7 +13,7 @@ sizes <- data.frame(
   height = dims %>% map_int(1),
   width = dims %>% map_int(2)
 )
-subset(sizes, !height %in% c(2556, 2557))
+subset(sizes, !height %in% c(2556, 2557, 2911))
 
 svg <- dir_ls("svg", glob = "*.svg")
 
@@ -29,5 +29,3 @@ walk2(svg, out, rsvg_png, width = 240)
 dir_create("png-hires")
 out <- path("png-hires", path_ext_set(path_file(svg), "png"))
 walk2(svg, out, rsvg_png, width = 2400)
-
-
