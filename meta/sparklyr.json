@@ -1,9 +1,0 @@
-{
-  "name": "sparklyr",
-  "author": "rstudio",
-  "license": "CC0",
-  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/sparklyr.png",
-  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/sparklyr.svg",
-  "description": "sparklyr: R Interface to Apache Spark.",
-  "filename": "meta/sparklyr.json"
-}

@@ -1,0 +1,8 @@
+{
+  "name": "ragg",
+  "author": "Thomas Lin Pedersen",
+  "license": "CC0",
+  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/ragg.png",
+  "description": "ragg: Graphic Device Based on Anti-Grain Geometry",
+  "filename": "meta/ragg.json"
+}

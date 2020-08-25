@@ -1,9 +1,0 @@
-{
-  "name": "purrr",
-  "author": "rstudio",
-  "license": "CC0",
-  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/purrr.png",
-  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/purrr.svg",
-  "description": "purrr: Functional Programming Tools.",
-  "filename": "meta/purrr.json"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "rmarkdown",
-  "author": "rstudio",
-  "license": "CC0",
-  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/rmarkdown.png",
-  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg",
-  "description": "rmarkdown: Dynamic Documents for R.",
-  "filename": "meta/rmarkdown.json"
-}

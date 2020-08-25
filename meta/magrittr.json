@@ -1,9 +1,0 @@
-{
-  "name": "magrittr",
-  "author": "Stefan Milton Bache and Hadley Wickham",
-  "license": "MIT",
-  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/magrittr.png",
-  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/magrittr.svg",
-  "description": "magrittr R package. http://github.com/smbache/magrittr",
-  "filename": "meta/magrittr.json"
-}
