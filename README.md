@@ -289,7 +289,7 @@ on how to print them yourself.
 
 <td>
 
-<img alt="Logo for plumber-female" src="thumbs/plumber-female.png" width="120" height="139"><br /><a href="PNG/plumber-female.png">plumber-female.png</a><br /><a href="SVG/plumber-female.svg">plumber-female.svg</a>
+<img alt="Logo for plumber" src="thumbs/plumber.png" width="120" height="139"><br /><a href="PNG/plumber.png">plumber.png</a><br /><a href="SVG/plumber.svg">plumber.svg</a>
 
 </td>
 
