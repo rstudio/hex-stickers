@@ -437,19 +437,25 @@ on how to print them yourself.
 
 <td>
 
-<img alt="Logo for scales" src="thumbs/scales.png" width="120" height="139"><br /><a href="PNG/scales.png">scales.png</a><br /><a href="SVG/scales.svg">scales.svg</a>
+<img alt="Logo for sass" src="thumbs/sass.png" width="120" height="139"><br /><a href="PNG/sass.png">sass.png</a><br /><a href="SVG/sass.svg">sass.svg</a>
 
 </td>
 
 <td>
 
-<img alt="Logo for shiny" src="thumbs/shiny.png" width="120" height="139"><br /><a href="PNG/shiny.png">shiny.png</a><br /><a href="SVG/shiny.svg">shiny.svg</a>
+<img alt="Logo for scales" src="thumbs/scales.png" width="120" height="139"><br /><a href="PNG/scales.png">scales.png</a><br /><a href="SVG/scales.svg">scales.svg</a>
 
 </td>
 
 </tr>
 
 <tr>
+
+<td>
+
+<img alt="Logo for shiny" src="thumbs/shiny.png" width="120" height="139"><br /><a href="PNG/shiny.png">shiny.png</a><br /><a href="SVG/shiny.svg">shiny.svg</a>
+
+</td>
 
 <td>
 
