@@ -1,6 +1,6 @@
 ## Stickermule
 
-If you want to print stickers from [stickermule.com](https://www.stickermule.com/) just upload a PNG or SVG version as a 2x2 Die cut sticker. When Stickermule sends you a proof for approval, it'll be resized to "Custom 1.73" x 2" Die cut sticker"  and will come out fine. Check out these [SVG tips](#svg_tips) for a hassle-free experience.
+If you want to print stickers from [stickermule.com](https://www.stickermule.com/) just upload a PNG or SVG version as a 2x2 Die cut sticker. When Stickermule sends you a proof for approval, it'll be resized to `Custom 1.74" x 2" Die cut sticker` (preferred) or `Custom 1.73" x 2" Die cut sticker` and will come out fine. Check out these [SVG tips](#svg_tips) for a hassle-free experience.
 
 
 **Step by step**
@@ -16,7 +16,7 @@ If you want to print stickers from [stickermule.com](https://www.stickermule.com
 
 ![image](https://user-images.githubusercontent.com/1934546/32126617-7377b134-bb26-11e7-9594-5e987d600eb4.png)
 
-4) You are now good to go! 
+4) You are now good to go!
 
 
 ## SVG Tips
