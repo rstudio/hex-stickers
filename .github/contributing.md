@@ -14,5 +14,5 @@ rsvg_png(paste0("SVG/", pkg, ".svg"), paste0("PNG/", pkg, ".png"), width = 2521,
 ### Specs
 
 * Point down hexagon
-* 2" high (point to point); 1.74" wide (side to side)
+* 2" high (point to point); 1.74" wide (side to side) (Updated 09/2020)
 * Default font: myriad pro
