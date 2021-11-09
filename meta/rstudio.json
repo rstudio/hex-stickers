@@ -1,9 +1,0 @@
-{
-  "name": "rstudio",
-  "author": "rstudio",
-  "license": "CC0",
-  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/rstudio.png",
-  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/rstudio.svg",
-  "description": "Open source and enterprise-ready professional software for R.",
-  "filename": "meta/rstudio.json"
-}

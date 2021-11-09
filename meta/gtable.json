@@ -1,0 +1,9 @@
+{
+  "name": "gtable",
+  "author": "rstudio",
+  "license": "CC0",
+  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/gtable.png",
+  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/gtable.svg",
+  "description": "gtable: The Layout Engine for ggplot2",
+  "filename": "meta/gtable.json"
+}

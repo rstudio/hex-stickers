@@ -1,9 +1,0 @@
-{
-  "name": "tibble",
-  "author": "rstudio",
-  "license": "CC0",
-  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/tibble.png",
-  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/tibble.svg",
-  "description": "tibble: Simple Data Frames.",
-  "filename": "meta/tibble.json"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "hms",
-  "author": "rstudio",
-  "license": "CC0",
-  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/hms.png",
-  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/hms.svg",
-  "description": "hms: Pretty Time of Day.",
-  "filename": "meta/hms.json"
-}

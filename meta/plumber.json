@@ -1,9 +1,0 @@
-{
-  "name": "plumber",
-  "author": "rstudio",
-  "license": "CC0",
-  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/plumber.png",
-  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/plumber.svg",
-  "description": "plumber: An API Generator for R.",
-   "filename": "meta/plumber.json"
-}

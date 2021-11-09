@@ -1,9 +1,0 @@
-{
-  "name": "packrat",
-  "author": "rstudio",
-  "license": "CC0",
-  "raster": "https://github.com/rstudio/hex-stickers/blob/master/PNG/packrat.png",
-  "vector": "https://github.com/rstudio/hex-stickers/blob/master/SVG/packrat.svg",
-  "description": "packrat: A Dependency Management System for Projects and their R Package Dependencies.",
-  "filename": "meta/packrat.json"
-}
