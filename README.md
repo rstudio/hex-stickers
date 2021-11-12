@@ -459,6 +459,12 @@ on how to print them yourself.
 
 <td>
 
+<img alt="Logo for rticles" src="thumbs/rticles.png" width="120" height="139"><br /><a href="PNG/rticles.png">rticles.png</a><br /><a href="SVG/rticles.svg">rticles.svg</a>
+
+</td>
+
+<td>
+
 <img alt="Logo for rvest" src="thumbs/rvest.png" width="120" height="139"><br /><a href="PNG/rvest.png">rvest.png</a><br /><a href="SVG/rvest.svg">rvest.svg</a>
 
 </td>
@@ -475,15 +481,15 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for shiny" src="thumbs/shiny.png" width="120" height="139"><br /><a href="PNG/shiny.png">shiny.png</a><br /><a href="SVG/shiny.svg">shiny.svg</a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -509,15 +515,15 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for stringr" src="thumbs/stringr.png" width="120" height="139"><br /><a href="PNG/stringr.png">stringr.png</a><br /><a href="SVG/stringr.svg">stringr.svg</a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -543,15 +549,15 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for tidymodels" src="thumbs/tidymodels.png" width="120" height="139"><br /><a href="PNG/tidymodels.png">tidymodels.png</a><br /><a href="SVG/tidymodels.svg">tidymodels.svg</a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -577,15 +583,15 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for tune" src="thumbs/tune.png" width="120" height="139"><br /><a href="PNG/tune.png">tune.png</a><br /><a href="SVG/tune.svg">tune.svg</a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -611,15 +617,15 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for xaringan" src="thumbs/xaringan.png" width="120" height="139"><br /><a href="PNG/xaringan.png">xaringan.png</a><br /><a href="SVG/xaringan.svg">xaringan.svg</a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
