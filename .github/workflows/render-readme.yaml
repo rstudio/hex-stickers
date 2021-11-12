@@ -1,13 +1,26 @@
 on:
   pull_request:
     branches: '*'
+  issue_comment:
+    types: [created]
 
 name: Render README
 
 jobs:
+  check-not-fork:
+    runs-on: macOS-latest
+    steps:
+      - uses: actions/github-script@v5
+        if: github.event.pull_request.head.repo.fork == true
+        with:
+          script: |
+            core.setFailed('This PR is from a fork. README.Rmd should be rendered manually using `/render` command in a comment.')
   render:
+    needs: check-not-fork
     name: Render README
     runs-on: macOS-latest
+    # Don't run on fork - in that case a comment should trigger
+    if: github.event.pull_request.head.repo.fork == false || (github.event.issue.pull_request && startsWith(github.event.comment.body, '/render'))
     steps:
       - uses: actions/checkout@v2
       - uses: r-lib/actions/pr-fetch@master
@@ -31,3 +44,16 @@ jobs:
       - uses: r-lib/actions/pr-push@master
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/github-script@v5
+        if: github.event_name == 'issue_comment'
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            github.rest.repos.createCommitStatus({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              sha: context.sha,
+              state: "success",
+              description: "README.md rendered",
+              context: "build readme"
+            })
