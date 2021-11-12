@@ -9,6 +9,8 @@ name: Render README
 jobs:
   check-not-fork:
     runs-on: macOS-latest
+    # Only check on PR
+    if: github.event.name == 'pull_request'
     steps:
       - uses: actions/github-script@v5
         if: github.event.pull_request.head.repo.fork == true
