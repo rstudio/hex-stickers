@@ -40,20 +40,7 @@ jobs:
           git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
       - name: Commit results
         run: |
-          git add README.md thumbs && git commit -m 'Re-build README.Rmd' && echo "RENDERED_SHA=$(git rev-parse HEAD)" >> $GITHUB_ENV || echo "No changes to commit"
+          git add README.md thumbs && git commit -m 'Re-build README.Rmd' || echo "No changes to commit"
       - uses: r-lib/actions/pr-push@master
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: actions/github-script@v5
-        if: ${{ env.RENDERED_SHA != '' }}
-        with:
-          github-token: ${{secrets.GITHUB_TOKEN}}
-          script: |
-            github.rest.repos.createCommitStatus({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              sha: "${{ env.RENDERED_SHA }}",
-              state: "success",
-              description: "README.md rendered",
-              context: "build readme"
-            })
