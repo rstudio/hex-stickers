@@ -41,3 +41,12 @@ cat("</table>\n")
 ```
 
 All stickers are licensed [CC0](LICENSE.md).
+
+## Printing
+
+Look for a company that offers die-cut stickers. We recommend using the PNG version of the sticker. The printed stickers should be 1.74" x 2". 
+
+If you use the SVG version:
+
+* Specify colors as CMYK using the U.S. Web Coated (SWOP) v2 profile.
+* Save a copy of your final sticker and convert all text to outlines to avoid font problems.
