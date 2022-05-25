@@ -499,6 +499,12 @@ on how to print them yourself.
 
 <td>
 
+<img alt="Logo for shinytest2" src="thumbs/shinytest2.png" width="120" height="139"><br /><a href="PNG/shinytest2.png">shinytest2.png</a><br /><a href="SVG/shinytest2.svg">shinytest2.svg</a>
+
+</td>
+
+<td>
+
 <img alt="Logo for sloop" src="thumbs/sloop.png" width="120" height="139"><br /><a href="PNG/sloop.png">sloop.png</a><br /><a href="SVG/sloop.svg">sloop.svg</a>
 
 </td>
@@ -509,15 +515,15 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for sparklyr" src="thumbs/sparklyr.png" width="120" height="139"><br /><a href="PNG/sparklyr.png">sparklyr.png</a><br /><a href="SVG/sparklyr.svg">sparklyr.svg</a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -543,15 +549,15 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for textrecipes" src="thumbs/textrecipes.png" width="120" height="139"><br /><a href="PNG/textrecipes.png">textrecipes.png</a><br /><a href="SVG/textrecipes.svg">textrecipes.svg</a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -577,15 +583,15 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for tidyr" src="thumbs/tidyr.png" width="120" height="139"><br /><a href="PNG/tidyr.png">tidyr.png</a><br /><a href="SVG/tidyr.svg">tidyr.svg</a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -611,15 +617,15 @@ on how to print them yourself.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for vctrs" src="thumbs/vctrs.png" width="120" height="139"><br /><a href="PNG/vctrs.png">vctrs.png</a><br /><a href="SVG/vctrs.svg">vctrs.svg</a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -644,6 +650,10 @@ on how to print them yourself.
 <img alt="Logo for xaringan" src="thumbs/xaringan.png" width="120" height="139"><br /><a href="PNG/xaringan.png">xaringan.png</a><br /><a href="SVG/xaringan.svg">xaringan.svg</a>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td>
 
