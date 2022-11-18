@@ -1,0 +1,15 @@
+Package: rstudio-hex
+Title: Automatic 
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Hadley", "Wickham", , "hadley@rstudio.com", role = c("aut", "cre")),
+    person("RStudio", role = c("cph", "fnd"))
+  )
+Description: What the package does (one paragraph).
+License: CC0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    magick,
+    rmarkdown
