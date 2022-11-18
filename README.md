@@ -357,6 +357,6 @@ PNG version of the sticker. The printed stickers should be 1.74” x 2”.
 
 If you use the SVG version:
 
--   Specify colors as CMYK using the U.S. Web Coated (SWOP) v2 profile.
--   Save a copy of your final sticker and convert all text to outlines
-    to avoid font problems.
+- Specify colors as CMYK using the U.S. Web Coated (SWOP) v2 profile.
+- Save a copy of your final sticker and convert all text to outlines to
+  avoid font problems.
