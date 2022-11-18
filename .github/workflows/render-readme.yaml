@@ -8,7 +8,7 @@ name: Render README
 
 jobs:
   check-not-fork:
-    runs-on: macOS-latest
+    runs-on: ubuntu-latest
     # Only check on PR
     if: github.event_name == 'pull_request' || github.event.issue.pull_request
     steps:
@@ -20,20 +20,18 @@ jobs:
   render:
     needs: check-not-fork
     name: Render README
-    runs-on: macOS-latest
+    runs-on: ubuntu-latest
     # Don't run on fork - in that case a comment should trigger
     if: contains(github.event.pull_request.head.repo.fork, 'false') || (github.event.issue.pull_request && startsWith(github.event.comment.body, '/render'))
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: r-lib/actions/pr-fetch@master
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: r-lib/actions/setup-r@master
-      - uses: r-lib/actions/setup-pandoc@master
-      - name: Install packages
-        run: |
-          install.packages(c("rmarkdown", "magick"))
-        shell: Rscript {0}
+      - uses: r-lib/actions/setup-r@v2
+          use-public-rspm: true
+      - uses: r-lib/actions/setup-pandoc@v2
+      - uses: r-lib/actions/setup-r-dependencies@v2
       - name: Render README
         run: Rscript -e 'rmarkdown::render("README.Rmd")'
       - name: Configure Git
