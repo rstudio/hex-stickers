@@ -4,7 +4,9 @@ output: github_document
 
 # RStudio hex stickers
 
-Want to buy a sticker? Many can be purchased from <http://swag.rstudio.com/>. Or [see our instructions](./stickermule.md) on how to print them yourself.
+Want to buy a sticker? Many can be purchased from
+<http://swag.rstudio.com/>. Or [see our instructions](#printing)
+on how to print them yourself.
 
 ```{r, echo = FALSE, message = FALSE}
 library(magick)
@@ -41,3 +43,12 @@ cat("</table>\n")
 ```
 
 All stickers are licensed [CC0](LICENSE.md).
+
+## Printing
+
+Look for a company that offers die-cut stickers. We recommend using the PNG version of the sticker. The printed stickers should be 1.74" x 2". 
+
+If you use the SVG version:
+
+* Specify colors as CMYK using the U.S. Web Coated (SWOP) v2 profile.
+* Save a copy of your final sticker and convert all text to outlines to avoid font problems.
