@@ -42,6 +42,6 @@ jobs:
       - name: Commit results
         run: |
           git add README.md thumbs && git commit -m 'Re-build README.Rmd' || echo "No changes to commit"
-      - uses: r-lib/actions/pr-push@master
+      - uses: r-lib/actions/pr-push@v2
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
