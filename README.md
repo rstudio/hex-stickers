@@ -392,7 +392,7 @@ All stickers are licensed [CC0](LICENSE.md).
 ## Printing
 
 Look for a company that offers die-cut stickers. We recommend using the
-PNG version of the sticker. The printed stickers should be 1.74” x 2”.
+PNG version of the sticker. The printed stickers should be 1.73” x 2”.
 
 If you use the SVG version:
 
