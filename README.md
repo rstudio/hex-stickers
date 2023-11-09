@@ -139,7 +139,7 @@ to print them yourself.
 <img alt="Logo for htmltools" src="thumbs/htmltools.png" width="120" height="139"><br /><a href="PNG/htmltools.png">htmltools.png</a><br /><a href="SVG/htmltools.svg">htmltools.svg</a>
 </td>
 <td>
-<img alt="Logo for httr" src="thumbs/httr.png" width="120" height="139"><br /><a href="PNG/httr.png">httr.png</a><br /><a href="SVG/httr.svg">httr.svg</a>
+<img alt="Logo for httr2" src="thumbs/httr2.png" width="120" height="139"><br /><a href="PNG/httr2.png">httr2.png</a><br /><a href="SVG/httr2.svg">httr2.svg</a>
 </td>
 </tr>
 <tr>
