@@ -20,10 +20,13 @@ to print them yourself.
 <img alt="Logo for blogdown" src="thumbs/blogdown.png" width="120" height="139"><br /><a href="PNG/blogdown.png">blogdown.png</a><br /><a href="SVG/blogdown.svg">blogdown.svg</a>
 </td>
 <td>
-<img alt="Logo for bookdown" src="thumbs/bookdown.png" width="120" height="139"><br /><a href="PNG/bookdown.png">bookdown.png</a><br /><a href="SVG/bookdown.svg">bookdown.svg</a>
+<img alt="Logo for bonsai" src="thumbs/bonsai.png" width="120" height="139"><br /><a href="PNG/bonsai.png">bonsai.png</a><br /><a href="SVG/bonsai.svg">bonsai.svg</a>
 </td>
 </tr>
 <tr>
+<td>
+<img alt="Logo for bookdown" src="thumbs/bookdown.png" width="120" height="139"><br /><a href="PNG/bookdown.png">bookdown.png</a><br /><a href="SVG/bookdown.svg">bookdown.svg</a>
+</td>
 <td>
 <img alt="Logo for broom" src="thumbs/broom.png" width="120" height="139"><br /><a href="PNG/broom.png">broom.png</a><br /><a href="SVG/broom.svg">broom.svg</a>
 </td>
@@ -36,11 +39,11 @@ to print them yourself.
 <td>
 <img alt="Logo for clock" src="thumbs/clock.png" width="120" height="139"><br /><a href="PNG/clock.png">clock.png</a><br /><a href="SVG/clock.svg">clock.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for connectapi" src="thumbs/connectapi.png" width="120" height="139"><br /><a href="PNG/connectapi.png">connectapi.png</a><br /><a href="SVG/connectapi.svg">connectapi.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for connections" src="thumbs/connections.png" width="120" height="139"><br /><a href="PNG/connections.png">connections.png</a><br /><a href="SVG/connections.svg">connections.svg</a>
 </td>
@@ -53,11 +56,11 @@ to print them yourself.
 <td>
 <img alt="Logo for dbplyr" src="thumbs/dbplyr.png" width="120" height="139"><br /><a href="PNG/dbplyr.png">dbplyr.png</a><br /><a href="SVG/dbplyr.svg">dbplyr.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for devtools" src="thumbs/devtools.png" width="120" height="139"><br /><a href="PNG/devtools.png">devtools.png</a><br /><a href="SVG/devtools.svg">devtools.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for dials" src="thumbs/dials.png" width="120" height="139"><br /><a href="PNG/dials.png">dials.png</a><br /><a href="SVG/dials.svg">dials.svg</a>
 </td>
@@ -70,11 +73,11 @@ to print them yourself.
 <td>
 <img alt="Logo for dplyr" src="thumbs/dplyr.png" width="120" height="139"><br /><a href="PNG/dplyr.png">dplyr.png</a><br /><a href="SVG/dplyr.svg">dplyr.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for dsbox" src="thumbs/dsbox.png" width="120" height="139"><br /><a href="PNG/dsbox.png">dsbox.png</a><br /><a href="SVG/dsbox.svg">dsbox.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for dtplyr" src="thumbs/dtplyr.png" width="120" height="139"><br /><a href="PNG/dtplyr.png">dtplyr.png</a><br /><a href="SVG/dtplyr.svg">dtplyr.svg</a>
 </td>
@@ -87,11 +90,11 @@ to print them yourself.
 <td>
 <img alt="Logo for finetune" src="thumbs/finetune.png" width="120" height="139"><br /><a href="PNG/finetune.png">finetune.png</a><br /><a href="SVG/finetune.svg">finetune.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for flexdashboard" src="thumbs/flexdashboard.png" width="120" height="139"><br /><a href="PNG/flexdashboard.png">flexdashboard.png</a><br /><a href="SVG/flexdashboard.svg">flexdashboard.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for forcats" src="thumbs/forcats.png" width="120" height="139"><br /><a href="PNG/forcats.png">forcats.png</a><br /><a href="SVG/forcats.svg">forcats.svg</a>
 </td>
@@ -104,11 +107,11 @@ to print them yourself.
 <td>
 <img alt="Logo for ggplot2" src="thumbs/ggplot2.png" width="120" height="139"><br /><a href="PNG/ggplot2.png">ggplot2.png</a><br /><a href="SVG/ggplot2.svg">ggplot2.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for glue" src="thumbs/glue.png" width="120" height="139"><br /><a href="PNG/glue.png">glue.png</a><br /><a href="SVG/glue.svg">glue.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for googledrive" src="thumbs/googledrive.png" width="120" height="139"><br /><a href="PNG/googledrive.png">googledrive.png</a><br /><a href="SVG/googledrive.svg">googledrive.svg</a>
 </td>
@@ -121,11 +124,11 @@ to print them yourself.
 <td>
 <img alt="Logo for gt" src="thumbs/gt.png" width="120" height="139"><br /><a href="PNG/gt.png">gt.png</a><br /><a href="SVG/gt.svg">gt.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for gtable" src="thumbs/gtable.png" width="120" height="139"><br /><a href="PNG/gtable.png">gtable.png</a><br /><a href="SVG/gtable.svg">gtable.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for hardhat" src="thumbs/hardhat.png" width="120" height="139"><br /><a href="PNG/hardhat.png">hardhat.png</a><br /><a href="SVG/hardhat.svg">hardhat.svg</a>
 </td>
@@ -138,11 +141,11 @@ to print them yourself.
 <td>
 <img alt="Logo for htmltools" src="thumbs/htmltools.png" width="120" height="139"><br /><a href="PNG/htmltools.png">htmltools.png</a><br /><a href="SVG/htmltools.svg">htmltools.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for httr" src="thumbs/httr.png" width="120" height="139"><br /><a href="PNG/httr.png">httr.png</a><br /><a href="SVG/httr.svg">httr.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for infer" src="thumbs/infer.png" width="120" height="139"><br /><a href="PNG/infer.png">infer.png</a><br /><a href="SVG/infer.svg">infer.svg</a>
 </td>
