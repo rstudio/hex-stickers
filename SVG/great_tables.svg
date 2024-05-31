@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="736px" height="849px" viewBox="0 0 736 849" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="57.5532767%" y1="46.0237368%" x2="36.4312187%" y2="32.7401687%" id="linearGradient-1">
+            <stop stop-color="#FDB7F0" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#F900C3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Great-Tables" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="GT_hex_logo" transform="translate(0.837612, 0.250000)">
+            <polygon id="hex_outline" fill="#F900C3" points="725.106412 631.822543 367.4 838.342187 9.69358793 631.822543 9.69358793 218.677457 367.4 12.1578125 725.106412 218.677457"></polygon>
+            <path d="M367.4,0 L427.7,34.8 L705.5,195.2 L734.8,212.1 L734.8,636.4 L705.5,653.3 L424.3,815.7 L367.4,848.5 L310.5,815.7 L29.3,653.3 L0,636.4 L0,212.1 L29.3,195.2 L307.1,34.8 L367.4,0 Z M367.4,12.1578125 L9.69358793,218.677457 L9.69358793,631.822543 L367.4,838.342187 L725.106412,631.822543 L725.106412,218.677457 L367.4,12.1578125 Z" id="hex_outline" fill="#BF0096"></path>
+            <g id="great_tables_icon_square-copy-8" transform="translate(97.890455, 193.250000)">
+                <polygon id="polygon_outer" stroke="#F900C3" stroke-width="10" fill="#FFFFFF" transform="translate(269.509545, 268.000000) rotate(-180.000000) translate(-269.509545, -268.000000) " points="270.452449 -1.87355141e-14 539.01909 178.468747 432.479585 536 106.255562 536 2.02004851e-13 180.227599"></polygon>
+                <polygon id="polygon_inner" fill="url(#linearGradient-1)" opacity="0.657273065" transform="translate(394.873777, 268.037860) rotate(-180.000000) translate(-394.873777, -268.037860) " points="510.412182 36.1606619 371.834358 499.915059 279.335373 189.697701"></polygon>
+                <polygon id="G" fill="#F900C3" fill-rule="nonzero" points="223.287612 174.907299 155.15221 174.907299 144.627229 211.767486 171.216654 211.767486 127.129699 365.266551 71.3391368 333.78128 154.159725 58.3370421 209.743047 58.3370421 200.325959 92.2945264 242.854078 92.2945264 262.685156 25.9392341 124.549293 25.9536302 28.5305353 347.441433 151.316014 429.318401"></polygon>
+                <polygon id="T" fill="#F900C3" fill-rule="nonzero" points="412.631083 26.108742 279.065785 26.108742 268.072272 59.4041521 314.56956 59.4041521 197.332115 459.642538 236.885118 486.132313 361.066847 59.4041521 402.736588 59.4041521"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
