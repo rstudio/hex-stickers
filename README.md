@@ -184,16 +184,19 @@ to print them yourself.
 <img alt="Logo for multilevelmod" src="thumbs/multilevelmod.png" width="120" height="139"><br /><a href="PNG/multilevelmod.png">multilevelmod.png</a><br /><a href="SVG/multilevelmod.svg">multilevelmod.svg</a>
 </td>
 <td>
+<img alt="Logo for odbc" src="thumbs/odbc.png" width="120" height="139"><br /><a href="PNG/odbc.png">odbc.png</a><br /><a href="SVG/odbc.svg">odbc.svg</a>
+</td>
+<td>
 <img alt="Logo for pagedown" src="thumbs/pagedown.png" width="120" height="139"><br /><a href="PNG/pagedown.png">pagedown.png</a><br /><a href="SVG/pagedown.svg">pagedown.svg</a>
 </td>
 <td>
 <img alt="Logo for parsnip" src="thumbs/parsnip.png" width="120" height="139"><br /><a href="PNG/parsnip.png">parsnip.png</a><br /><a href="SVG/parsnip.svg">parsnip.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for pins" src="thumbs/pins.png" width="120" height="139"><br /><a href="PNG/pins.png">pins.png</a><br /><a href="SVG/pins.svg">pins.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for pipe" src="thumbs/pipe.png" width="120" height="139"><br /><a href="PNG/pipe.png">pipe.png</a><br /><a href="SVG/pipe.svg">pipe.svg</a>
 </td>
@@ -206,11 +209,11 @@ to print them yourself.
 <td>
 <img alt="Logo for plumbertableau" src="thumbs/plumbertableau.png" width="120" height="139"><br /><a href="PNG/plumbertableau.png">plumbertableau.png</a><br /><a href="SVG/plumbertableau.svg">plumbertableau.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for poissonreg" src="thumbs/poissonreg.png" width="120" height="139"><br /><a href="PNG/poissonreg.png">poissonreg.png</a><br /><a href="SVG/poissonreg.svg">poissonreg.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for purrr" src="thumbs/purrr.png" width="120" height="139"><br /><a href="PNG/purrr.png">purrr.png</a><br /><a href="SVG/purrr.svg">purrr.svg</a>
 </td>
@@ -223,11 +226,11 @@ to print them yourself.
 <td>
 <img alt="Logo for R6" src="thumbs/R6.png" width="120" height="139"><br /><a href="PNG/R6.png">R6.png</a><br /><a href="SVG/R6.svg">R6.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for ragg" src="thumbs/ragg.png" width="120" height="139"><br /><a href="PNG/ragg.png">ragg.png</a><br /><a href="SVG/ragg.svg">ragg.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for reactlog" src="thumbs/reactlog.png" width="120" height="139"><br /><a href="PNG/reactlog.png">reactlog.png</a><br /><a href="SVG/reactlog.svg">reactlog.svg</a>
 </td>
@@ -240,11 +243,11 @@ to print them yourself.
 <td>
 <img alt="Logo for recipes" src="thumbs/recipes.png" width="120" height="139"><br /><a href="PNG/recipes.png">recipes.png</a><br /><a href="SVG/recipes.svg">recipes.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for renv" src="thumbs/renv.png" width="120" height="139"><br /><a href="PNG/renv.png">renv.png</a><br /><a href="SVG/renv.svg">renv.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for reprex" src="thumbs/reprex.png" width="120" height="139"><br /><a href="PNG/reprex.png">reprex.png</a><br /><a href="SVG/reprex.svg">reprex.svg</a>
 </td>
@@ -257,11 +260,11 @@ to print them yourself.
 <td>
 <img alt="Logo for rmarkdown" src="thumbs/rmarkdown.png" width="120" height="139"><br /><a href="PNG/rmarkdown.png">rmarkdown.png</a><br /><a href="SVG/rmarkdown.svg">rmarkdown.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for roxygen2" src="thumbs/roxygen2.png" width="120" height="139"><br /><a href="PNG/roxygen2.png">roxygen2.png</a><br /><a href="SVG/roxygen2.svg">roxygen2.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for rray" src="thumbs/rray.png" width="120" height="139"><br /><a href="PNG/rray.png">rray.png</a><br /><a href="SVG/rray.svg">rray.svg</a>
 </td>
@@ -274,11 +277,11 @@ to print them yourself.
 <td>
 <img alt="Logo for rsconnect" src="thumbs/rsconnect.png" width="120" height="139"><br /><a href="PNG/rsconnect.png">rsconnect.png</a><br /><a href="SVG/rsconnect.svg">rsconnect.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for RStudio" src="thumbs/RStudio.png" width="120" height="139"><br /><a href="PNG/RStudio.png">RStudio.png</a><br /><a href="SVG/RStudio.svg">RStudio.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for rstudioapi" src="thumbs/rstudioapi.png" width="120" height="139"><br /><a href="PNG/rstudioapi.png">rstudioapi.png</a><br /><a href="SVG/rstudioapi.svg">rstudioapi.svg</a>
 </td>
@@ -291,11 +294,11 @@ to print them yourself.
 <td>
 <img alt="Logo for rvest" src="thumbs/rvest.png" width="120" height="139"><br /><a href="PNG/rvest.png">rvest.png</a><br /><a href="SVG/rvest.svg">rvest.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for rwasm" src="thumbs/rwasm.png" width="120" height="139"><br /><a href="PNG/rwasm.png">rwasm.png</a><br /><a href="SVG/rwasm.svg">rwasm.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for sass" src="thumbs/sass.png" width="120" height="139"><br /><a href="PNG/sass.png">sass.png</a><br /><a href="SVG/sass.svg">sass.svg</a>
 </td>
@@ -308,11 +311,11 @@ to print them yourself.
 <td>
 <img alt="Logo for shinytest2" src="thumbs/shinytest2.png" width="120" height="139"><br /><a href="PNG/shinytest2.png">shinytest2.png</a><br /><a href="SVG/shinytest2.svg">shinytest2.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for siuba" src="thumbs/siuba.png" width="120" height="139"><br /><a href="PNG/siuba.png">siuba.png</a><br /><a href="SVG/siuba.svg">siuba.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for sloop" src="thumbs/sloop.png" width="120" height="139"><br /><a href="PNG/sloop.png">sloop.png</a><br /><a href="SVG/sloop.svg">sloop.svg</a>
 </td>
@@ -325,11 +328,11 @@ to print them yourself.
 <td>
 <img alt="Logo for spatialsample" src="thumbs/spatialsample.png" width="120" height="139"><br /><a href="PNG/spatialsample.png">spatialsample.png</a><br /><a href="SVG/spatialsample.svg">spatialsample.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for sss" src="thumbs/sss.png" width="120" height="139"><br /><a href="PNG/sss.png">sss.png</a><br /><a href="SVG/sss.svg">sss.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for stacks" src="thumbs/stacks.png" width="120" height="139"><br /><a href="PNG/stacks.png">stacks.png</a><br /><a href="SVG/stacks.svg">stacks.svg</a>
 </td>
@@ -342,11 +345,11 @@ to print them yourself.
 <td>
 <img alt="Logo for testthat" src="thumbs/testthat.png" width="120" height="139"><br /><a href="PNG/testthat.png">testthat.png</a><br /><a href="SVG/testthat.svg">testthat.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for textrecipes" src="thumbs/textrecipes.png" width="120" height="139"><br /><a href="PNG/textrecipes.png">textrecipes.png</a><br /><a href="SVG/textrecipes.svg">textrecipes.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for themis" src="thumbs/themis.png" width="120" height="139"><br /><a href="PNG/themis.png">themis.png</a><br /><a href="SVG/themis.svg">themis.svg</a>
 </td>
@@ -359,11 +362,11 @@ to print them yourself.
 <td>
 <img alt="Logo for tidyposterior" src="thumbs/tidyposterior.png" width="120" height="139"><br /><a href="PNG/tidyposterior.png">tidyposterior.png</a><br /><a href="SVG/tidyposterior.svg">tidyposterior.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for tidypredict" src="thumbs/tidypredict.png" width="120" height="139"><br /><a href="PNG/tidypredict.png">tidypredict.png</a><br /><a href="SVG/tidypredict.svg">tidypredict.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for tidyr" src="thumbs/tidyr.png" width="120" height="139"><br /><a href="PNG/tidyr.png">tidyr.png</a><br /><a href="SVG/tidyr.svg">tidyr.svg</a>
 </td>
@@ -376,11 +379,11 @@ to print them yourself.
 <td>
 <img alt="Logo for tune" src="thumbs/tune.png" width="120" height="139"><br /><a href="PNG/tune.png">tune.png</a><br /><a href="SVG/tune.svg">tune.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for usethis" src="thumbs/usethis.png" width="120" height="139"><br /><a href="PNG/usethis.png">usethis.png</a><br /><a href="SVG/usethis.svg">usethis.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for vctrs" src="thumbs/vctrs.png" width="120" height="139"><br /><a href="PNG/vctrs.png">vctrs.png</a><br /><a href="SVG/vctrs.svg">vctrs.svg</a>
 </td>
@@ -393,11 +396,11 @@ to print them yourself.
 <td>
 <img alt="Logo for withr" src="thumbs/withr.png" width="120" height="139"><br /><a href="PNG/withr.png">withr.png</a><br /><a href="SVG/withr.svg">withr.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for workflows" src="thumbs/workflows.png" width="120" height="139"><br /><a href="PNG/workflows.png">workflows.png</a><br /><a href="SVG/workflows.svg">workflows.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for xaringan" src="thumbs/xaringan.png" width="120" height="139"><br /><a href="PNG/xaringan.png">xaringan.png</a><br /><a href="SVG/xaringan.svg">xaringan.svg</a>
 </td>
