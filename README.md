@@ -99,7 +99,7 @@ to print them yourself.
 <img alt="Logo for duckplyr" src="thumbs/duckplyr.png" width="120" height="139"><br /><a href="PNG/duckplyr.png">duckplyr.png</a><br /><a href="SVG/duckplyr.svg">duckplyr.svg</a>
 </td>
 <td>
-<img alt="Logo for elmer" src="thumbs/elmer.png" width="120" height="139"><br /><a href="PNG/elmer.png">elmer.png</a><br /><a href="SVG/elmer.svg">elmer.svg</a>
+<img alt="Logo for ellmer" src="thumbs/ellmer.png" width="120" height="139"><br /><a href="PNG/ellmer.png">ellmer.png</a><br /><a href="SVG/ellmer.svg">ellmer.svg</a>
 </td>
 <td>
 <img alt="Logo for embed" src="thumbs/embed.png" width="120" height="139"><br /><a href="PNG/embed.png">embed.png</a><br /><a href="SVG/embed.svg">embed.svg</a>
