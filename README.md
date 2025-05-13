@@ -343,10 +343,13 @@ to print them yourself.
 <img alt="Logo for shiny" src="thumbs/shiny.png" width="120" height="139"><br /><a href="PNG/shiny.png">shiny.png</a><br /><a href="SVG/shiny.svg">shiny.svg</a>
 </td>
 <td>
-<img alt="Logo for shinytest2" src="thumbs/shinytest2.png" width="120" height="139"><br /><a href="PNG/shinytest2.png">shinytest2.png</a><br /><a href="SVG/shinytest2.svg">shinytest2.svg</a>
+<img alt="Logo for shinychat" src="thumbs/shinychat.png" width="120" height="139"><br /><a href="PNG/shinychat.png">shinychat.png</a><br /><a href="SVG/shinychat.svg">shinychat.svg</a>
 </td>
 </tr>
 <tr>
+<td>
+<img alt="Logo for shinytest2" src="thumbs/shinytest2.png" width="120" height="139"><br /><a href="PNG/shinytest2.png">shinytest2.png</a><br /><a href="SVG/shinytest2.svg">shinytest2.svg</a>
+</td>
 <td>
 <img alt="Logo for siuba" src="thumbs/siuba.png" width="120" height="139"><br /><a href="PNG/siuba.png">siuba.png</a><br /><a href="SVG/siuba.svg">siuba.svg</a>
 </td>
@@ -359,11 +362,11 @@ to print them yourself.
 <td>
 <img alt="Logo for sparklyr" src="thumbs/sparklyr.png" width="120" height="139"><br /><a href="PNG/sparklyr.png">sparklyr.png</a><br /><a href="SVG/sparklyr.svg">sparklyr.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for sparsevctrs" src="thumbs/sparsevctrs.png" width="120" height="139"><br /><a href="PNG/sparsevctrs.png">sparsevctrs.png</a><br /><a href="SVG/sparsevctrs.svg">sparsevctrs.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for spatialsample" src="thumbs/spatialsample.png" width="120" height="139"><br /><a href="PNG/spatialsample.png">spatialsample.png</a><br /><a href="SVG/spatialsample.svg">spatialsample.svg</a>
 </td>
@@ -376,11 +379,11 @@ to print them yourself.
 <td>
 <img alt="Logo for stringr" src="thumbs/stringr.png" width="120" height="139"><br /><a href="PNG/stringr.png">stringr.png</a><br /><a href="SVG/stringr.svg">stringr.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for tensorflow" src="thumbs/tensorflow.png" width="120" height="139"><br /><a href="PNG/tensorflow.png">tensorflow.png</a><br /><a href="SVG/tensorflow.svg">tensorflow.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for testthat" src="thumbs/testthat.png" width="120" height="139"><br /><a href="PNG/testthat.png">testthat.png</a><br /><a href="SVG/testthat.svg">testthat.svg</a>
 </td>
@@ -393,11 +396,11 @@ to print them yourself.
 <td>
 <img alt="Logo for tibble" src="thumbs/tibble.png" width="120" height="139"><br /><a href="PNG/tibble.png">tibble.png</a><br /><a href="SVG/tibble.svg">tibble.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for tidymodels" src="thumbs/tidymodels.png" width="120" height="139"><br /><a href="PNG/tidymodels.png">tidymodels.png</a><br /><a href="SVG/tidymodels.svg">tidymodels.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for tidyposterior" src="thumbs/tidyposterior.png" width="120" height="139"><br /><a href="PNG/tidyposterior.png">tidyposterior.png</a><br /><a href="SVG/tidyposterior.svg">tidyposterior.svg</a>
 </td>
@@ -410,11 +413,11 @@ to print them yourself.
 <td>
 <img alt="Logo for tidyverse" src="thumbs/tidyverse.png" width="120" height="139"><br /><a href="PNG/tidyverse.png">tidyverse.png</a><br /><a href="SVG/tidyverse.svg">tidyverse.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for torch" src="thumbs/torch.png" width="120" height="139"><br /><a href="PNG/torch.png">torch.png</a><br /><a href="SVG/torch.svg">torch.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for tune" src="thumbs/tune.png" width="120" height="139"><br /><a href="PNG/tune.png">tune.png</a><br /><a href="SVG/tune.svg">tune.svg</a>
 </td>
@@ -427,11 +430,11 @@ to print them yourself.
 <td>
 <img alt="Logo for vetiver" src="thumbs/vetiver.png" width="120" height="139"><br /><a href="PNG/vetiver.png">vetiver.png</a><br /><a href="SVG/vetiver.svg">vetiver.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for webr" src="thumbs/webr.png" width="120" height="139"><br /><a href="PNG/webr.png">webr.png</a><br /><a href="SVG/webr.svg">webr.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for withr" src="thumbs/withr.png" width="120" height="139"><br /><a href="PNG/withr.png">withr.png</a><br /><a href="SVG/withr.svg">withr.svg</a>
 </td>
