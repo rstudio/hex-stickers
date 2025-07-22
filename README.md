@@ -241,12 +241,12 @@ to print them yourself.
 <img alt="Logo for pointblank" src="thumbs/pointblank.png" width="120" height="139"><br /><a href="PNG/pointblank.png">pointblank.png</a><br /><a href="SVG/pointblank.svg">pointblank.svg</a>
 </td>
 <td>
-<img alt="Logo for positron" src="thumbs/positron.png" width="120" height="139"><br /><a href="PNG/positron.png">positron.png</a><br /><a href="SVG/positron.svg">positron.svg</a>
+<img alt="Logo for poissonreg" src="thumbs/poissonreg.png" width="120" height="139"><br /><a href="PNG/poissonreg.png">poissonreg.png</a><br /><a href="SVG/poissonreg.svg">poissonreg.svg</a>
 </td>
 </tr>
 <tr>
 <td>
-<img alt="Logo for poissonreg" src="thumbs/poissonreg.png" width="120" height="139"><br /><a href="PNG/poissonreg.png">poissonreg.png</a><br /><a href="SVG/poissonreg.svg">poissonreg.svg</a>
+<img alt="Logo for positron" src="thumbs/positron.png" width="120" height="139"><br /><a href="PNG/positron.png">positron.png</a><br /><a href="SVG/positron.svg">positron.svg</a>
 </td>
 <td>
 <img alt="Logo for probably" src="thumbs/probably.png" width="120" height="139"><br /><a href="PNG/probably.png">probably.png</a><br /><a href="SVG/probably.svg">probably.svg</a>
