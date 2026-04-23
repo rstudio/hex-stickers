@@ -2,8 +2,8 @@
 # Posit hex stickers
 
 Want to buy a sticker? Many can be purchased from
-<https://swag.posit.co/>. Or [see our instructions](#printing) on how
-to print them yourself.
+<https://swag.posit.co/>. Or [see our instructions](#printing) on how to
+print them yourself.
 
 <table>
 <tr>
