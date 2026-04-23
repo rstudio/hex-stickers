@@ -1,8 +1,8 @@
 
-# RStudio hex stickers
+# Posit hex stickers
 
 Want to buy a sticker? Many can be purchased from
-<http://swag.rstudio.com/>. Or [see our instructions](#printing) on how
+<https://swag.posit.co/>. Or [see our instructions](#printing) on how
 to print them yourself.
 
 <table>
