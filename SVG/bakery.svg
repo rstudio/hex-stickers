@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2521 2911">
+  <defs>
+    <linearGradient id="trayMetal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"   stop-color="#DBDDE0"/>
+      <stop offset="0.5" stop-color="#C5C7CA"/>
+      <stop offset="1"   stop-color="#AFB1B4"/>
+    </linearGradient>
+    <linearGradient id="trayRim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8E9094"/>
+      <stop offset="1" stop-color="#5E6064"/>
+    </linearGradient>
+
+    <linearGradient id="cubeGloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"   stop-color="#FFFFFF" stop-opacity="0.18"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="1"   stop-color="#000000" stop-opacity="0.14"/>
+    </linearGradient>
+
+    <clipPath id="innerHexClip">
+      <polygon points="2459,764.4 2459,2146.6 1260.5,2838.7 62,2146.6 62,764.4 1260.5,72.3"/>
+    </clipPath>
+    <clipPath id="trayInnerClip">
+      <rect x="390" y="685" width="1740" height="1170" rx="100" ry="100"/>
+    </clipPath>
+
+    <!-- Pointy-top cube tile (R=200) with streaky layer hints -->
+    <g id="cube-hex">
+      <polygon points="10,-194 184,-94 184,106 10,206 -164,106 -164,-94"
+               fill="#000000" opacity="0.24"/>
+      <polygon points="0,-200 173,-100 173,100 0,200 -173,100 -173,-100"
+               fill="currentColor"
+               stroke="#17212B" stroke-width="4"/>
+      <polygon points="0,-200 173,-100 173,100 0,200 -173,100 -173,-100"
+               fill="url(#cubeGloss)"/>
+      <!-- Shadow tint on the lower-LEFT face (shaded side) -->
+      <polygon points="0,0 -173,-100 -173,100 0,200" fill="#000000" opacity="0.12"/>
+      <!-- Light tint on the lower-RIGHT face (lit side) -->
+      <polygon points="0,0 173,-100 173,100 0,200" fill="#FFFFFF" opacity="0.08"/>
+      <!-- Cube-edge ridges (subtle Y) -->
+      <g stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" opacity="0.30" fill="none">
+        <line x1="0" y1="0" x2="0"    y2="200"/>
+        <line x1="0" y1="0" x2="-173" y2="-100"/>
+        <line x1="0" y1="0" x2="173"  y2="-100"/>
+      </g>
+      <!-- Dim streaks on lower-LEFT face (shaded side: fewer, softer) -->
+      <g stroke="#FFFFFF" stroke-linecap="round" opacity="0.45" fill="none">
+        <line x1="-160" y1="-50" x2="-12" y2="42"  stroke-width="3"/>
+        <line x1="-160" y1="10"  x2="-12" y2="102" stroke-width="6"/>
+        <line x1="-160" y1="70"  x2="-12" y2="162" stroke-width="3"/>
+      </g>
+      <!-- Bright streaks on lower-RIGHT face (lit side: more, brighter) -->
+      <g stroke="#FFFFFF" stroke-linecap="round" opacity="0.95" fill="none">
+        <line x1="12" y1="20"  x2="160" y2="-72" stroke-width="3"/>
+        <line x1="12" y1="55"  x2="160" y2="-37" stroke-width="9"/>
+        <line x1="12" y1="92"  x2="160" y2="0"   stroke-width="4"/>
+        <line x1="12" y1="128" x2="160" y2="36"  stroke-width="7"/>
+        <line x1="12" y1="165" x2="160" y2="73"  stroke-width="3"/>
+      </g>
+    </g>
+  </defs>
+
+  <!-- Outer hex border -->
+  <polygon points="2490,745.5 2490,2165.5 1260.5,2875.1 31.4,2165.5 31.4,745.5 1260.5,35.9"
+           fill="#6FAEB0"/>
+  <!-- Inner hex -->
+  <polygon points="2459,764.4 2459,2146.6 1260.5,2838.7 62,2146.6 62,764.4 1260.5,72.3"
+           fill="#213D4F"/>
+
+  <!--
+    Baking sheet + cubes, rotated -30° about their shared center so the
+    tray's long edges run parallel to the hex's lower-right edge.
+  -->
+  <g transform="rotate(-30 1260.5 1455.5)">
+    <!-- Baking sheet -->
+    <g>
+      <rect x="380" y="675" width="1790" height="1220" rx="120" ry="120"
+            fill="#000000" opacity="0.28"/>
+      <rect x="365" y="660" width="1790" height="1220" rx="120" ry="120"
+            fill="url(#trayRim)"/>
+      <rect x="390" y="685" width="1740" height="1170" rx="100" ry="100"
+            fill="url(#trayMetal)"/>
+      <rect x="420" y="697" width="1680" height="9" rx="4.5" ry="4.5"
+            fill="#FFFFFF" opacity="0.40"
+            clip-path="url(#trayInnerClip)"/>
+    </g>
+
+    <!-- Heat waves in Posit Red, perpendicular to the tilted tray (inside rotation group) -->
+    <g fill="none" stroke="#D44000" stroke-linecap="round">
+      <path stroke-width="8"
+            d="M 750,580 q -20,-28 0,-55 t 0,-55"/>
+      <path stroke-width="11"
+            d="M 950,580 q 25,-27 0,-55 t 0,-55 t 0,-55"/>
+      <path stroke-width="13"
+            d="M 1180,540 q 28,-30 0,-60 t 0,-60 t 0,-60 t 0,-60"/>
+      <path stroke-width="9"
+            d="M 1370,570 q -22,-25 0,-50 t 0,-50"/>
+      <path stroke-width="10"
+            d="M 1580,580 q 25,-32 0,-65 t 0,-65 t 0,-65 t 0,-65"/>
+      <path stroke-width="10"
+            d="M 1780,560 q 22,-25 0,-50 t 0,-50 t 0,-50"/>
+    </g>
+
+
+    <!-- 11 cubes — strict Posit palette (rotated with the tray) -->
+    <g>
+      <!-- Row 1 -->
+      <g transform="translate(665.4,920)"   color="#EE6331"><use href="#cube-hex"/></g>  <!-- Posit Orange    -->
+      <g transform="translate(1061.8,920)"  color="#72994E"><use href="#cube-hex"/></g>  <!-- Posit Green     -->
+      <g transform="translate(1458.2,920)"  color="#9A4665"><use href="#cube-hex"/></g>  <!-- Posit Burgundy  -->
+      <g transform="translate(1854.6,920)"  color="#E7B10A"><use href="#cube-hex"/></g>  <!-- Posit Yellow    -->
+      <!-- Row 2 -->
+      <g transform="translate(863.6,1270)"  color="#447099"><use href="#cube-hex"/></g>  <!-- Posit Blue      -->
+      <g transform="translate(1260,1270)"   color="#D44000"><use href="#cube-hex"/></g>  <!-- Posit Red       -->
+      <g transform="translate(1656.4,1270)" color="#419599"><use href="#cube-hex"/></g>  <!-- Posit Teal      -->
+      <!-- Row 3 -->
+      <g transform="translate(665.4,1620)"  color="#57733D"><use href="#cube-hex"/></g>  <!-- Dark Green 1    -->
+      <g transform="translate(1061.8,1620)" color="#C48F0A"><use href="#cube-hex"/></g>  <!-- Dark Yellow 1   -->
+      <g transform="translate(1458.2,1620)" color="#305775"><use href="#cube-hex"/></g>  <!-- Dark Blue 1     -->
+      <g transform="translate(1854.6,1620)" color="#A62103"><use href="#cube-hex"/></g>  <!-- Dark Red 1      -->
+    </g>
+  </g>
+
+  <!-- Wordmark — centered on the perpendicular axis through hex center, ~0.4 of the way from the tray bottom edge to the hex lower-right edge -->
+  <g transform="rotate(-30 1634 2102)">
+    <text x="1634" y="2102"
+          font-family="Open Sans, Helvetica, Arial, sans-serif"
+          font-size="425"
+          font-weight="700"
+          fill="#FFFFFF"
+          text-anchor="middle"
+          dominant-baseline="middle"
+          letter-spacing="5">bakery</text>
+  </g>
+</svg>
