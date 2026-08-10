@@ -10,6 +10,7 @@ License: CC0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
-Imports: 
+Imports:
+    glue,
     magick,
     rmarkdown
