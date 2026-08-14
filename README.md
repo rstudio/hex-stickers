@@ -263,7 +263,7 @@ to print them yourself.
 
 <td>
 
-<img alt="Logo for ggsql" src="thumbs/ggsql.png" width="120" height="139"><br /><a href="PNG/ggsql.png">ggsql.png</a><br /><a href="SVG/ggsql.svg">ggsql.svg</a>
+<img alt="Logo for ggsql" src="thumbs/ggsql.png" width="120" height="139"><br /><a href="PNG/ggsql.png">ggsql.png</a>
 </td>
 
 </tr>
@@ -548,7 +548,7 @@ to print them yourself.
 
 <td>
 
-<img alt="Logo for querychat" src="thumbs/querychat.png" width="120" height="139"><br /><a href="PNG/querychat.png">querychat.png</a><br /><a href="SVG/querychat.svg">querychat.svg</a>
+<img alt="Logo for querychat" src="thumbs/querychat.png" width="120" height="139"><br /><a href="PNG/querychat.png">querychat.png</a>
 </td>
 
 <td>
