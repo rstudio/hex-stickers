@@ -74,6 +74,11 @@ to print them yourself.
 
 <td>
 
+<img alt="Logo for brulee" src="thumbs/brulee.png" width="120" height="139"><br /><a href="PNG/brulee.png">brulee.png</a><br /><a href="SVG/brulee.svg">brulee.svg</a>
+</td>
+
+<td>
+
 <img alt="Logo for bslib" src="thumbs/bslib.png" width="120" height="139"><br /><a href="PNG/bslib.png">bslib.png</a><br /><a href="SVG/bslib.svg">bslib.svg</a>
 </td>
 
