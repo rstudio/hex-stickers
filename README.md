@@ -79,6 +79,11 @@ to print them yourself.
 
 <td>
 
+<img alt="Logo for btw" src="thumbs/btw.png" width="120" height="139"><br /><a href="PNG/btw.png">btw.png</a><br /><a href="SVG/btw.svg">btw.svg</a>
+</td>
+
+<td>
+
 <img alt="Logo for butcher" src="thumbs/butcher.png" width="120" height="139"><br /><a href="PNG/butcher.png">butcher.png</a><br /><a href="SVG/butcher.svg">butcher.svg</a>
 </td>
 
@@ -87,14 +92,14 @@ to print them yourself.
 <img alt="Logo for censored" src="thumbs/censored.png" width="120" height="139"><br /><a href="PNG/censored.png">censored.png</a><br /><a href="SVG/censored.svg">censored.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for chatlas" src="thumbs/chatlas.png" width="120" height="139"><br /><a href="PNG/chatlas.png">chatlas.png</a><br /><a href="SVG/chatlas.svg">chatlas.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -736,6 +741,11 @@ to print them yourself.
 
 <td>
 
+<img alt="Logo for shinyreact" src="thumbs/shinyreact.png" width="120" height="139"><br /><a href="PNG/shinyreact.png">shinyreact.png</a><br /><a href="SVG/shinyreact.svg">shinyreact.svg</a>
+</td>
+
+<td>
+
 <img alt="Logo for shinytest2" src="thumbs/shinytest2.png" width="120" height="139"><br /><a href="PNG/shinytest2.png">shinytest2.png</a><br /><a href="SVG/shinytest2.svg">shinytest2.svg</a>
 </td>
 
@@ -753,6 +763,10 @@ to print them yourself.
 
 <img alt="Logo for sortable" src="thumbs/sortable.png" width="120" height="139"><br /><a href="PNG/sortable.png">sortable.png</a><br /><a href="SVG/sortable.svg">sortable.svg</a>
 </td>
+
+</tr>
+
+<tr>
 
 <td>
 
@@ -783,6 +797,10 @@ to print them yourself.
 <img alt="Logo for stacks" src="thumbs/stacks.png" width="120" height="139"><br /><a href="PNG/stacks.png">stacks.png</a><br /><a href="SVG/stacks.svg">stacks.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for stringr" src="thumbs/stringr.png" width="120" height="139"><br /><a href="PNG/stringr.png">stringr.png</a><br /><a href="SVG/stringr.svg">stringr.svg</a>
@@ -811,6 +829,10 @@ to print them yourself.
 
 <img alt="Logo for tensorflow" src="thumbs/tensorflow.png" width="120" height="139"><br /><a href="PNG/tensorflow.png">tensorflow.png</a><br /><a href="SVG/tensorflow.svg">tensorflow.svg</a>
 </td>
+
+</tr>
+
+<tr>
 
 <td>
 
@@ -841,6 +863,10 @@ to print them yourself.
 <img alt="Logo for tidyclust" src="thumbs/tidyclust.png" width="120" height="139"><br /><a href="PNG/tidyclust.png">tidyclust.png</a><br /><a href="SVG/tidyclust.svg">tidyclust.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for tidymodels" src="thumbs/tidymodels.png" width="120" height="139"><br /><a href="PNG/tidymodels.png">tidymodels.png</a><br /><a href="SVG/tidymodels.svg">tidymodels.svg</a>
@@ -869,6 +895,10 @@ to print them yourself.
 
 <img alt="Logo for tidyverse" src="thumbs/tidyverse.png" width="120" height="139"><br /><a href="PNG/tidyverse.png">tidyverse.png</a><br /><a href="SVG/tidyverse.svg">tidyverse.svg</a>
 </td>
+
+</tr>
+
+<tr>
 
 <td>
 
@@ -899,6 +929,10 @@ to print them yourself.
 <img alt="Logo for vetiver" src="thumbs/vetiver.png" width="120" height="139"><br /><a href="PNG/vetiver.png">vetiver.png</a><br /><a href="SVG/vetiver.svg">vetiver.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for webr" src="thumbs/webr.png" width="120" height="139"><br /><a href="PNG/webr.png">webr.png</a><br /><a href="SVG/webr.svg">webr.svg</a>
@@ -927,6 +961,10 @@ to print them yourself.
 
 <img alt="Logo for xaringan" src="thumbs/xaringan.png" width="120" height="139"><br /><a href="PNG/xaringan.png">xaringan.png</a><br /><a href="SVG/xaringan.svg">xaringan.svg</a>
 </td>
+
+</tr>
+
+<tr>
 
 <td>
 
