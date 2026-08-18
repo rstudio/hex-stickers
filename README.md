@@ -272,7 +272,7 @@ to print them yourself.
 
 <td>
 
-<img alt="Logo for ggsql" src="thumbs/ggsql.png" width="120" height="139"><br /><a href="PNG/ggsql.png">ggsql.png</a><br /><a href="SVG/ggsql.svg">ggsql.svg</a>
+<img alt="Logo for ggsql" src="thumbs/ggsql.png" width="120" height="139"><br /><a href="PNG/ggsql.png">ggsql.png</a>
 </td>
 
 <td>
@@ -553,12 +553,17 @@ to print them yourself.
 
 <td>
 
-<img alt="Logo for quickr" src="thumbs/quickr.png" width="120" height="139"><br /><a href="PNG/quickr.png">quickr.png</a><br /><a href="SVG/quickr.svg">quickr.svg</a>
+<img alt="Logo for querychat" src="thumbs/querychat.png" width="120" height="139"><br /><a href="PNG/querychat.png">querychat.png</a><br /><a href="SVG/querychat.svg">querychat.svg</a>
 </td>
 
 </tr>
 
 <tr>
+
+<td>
+
+<img alt="Logo for quickr" src="thumbs/quickr.png" width="120" height="139"><br /><a href="PNG/quickr.png">quickr.png</a><br /><a href="SVG/quickr.svg">quickr.svg</a>
+</td>
 
 <td>
 
@@ -580,14 +585,14 @@ to print them yourself.
 <img alt="Logo for raghilda" src="thumbs/raghilda.png" width="120" height="139"><br /><a href="PNG/raghilda.png">raghilda.png</a><br /><a href="SVG/raghilda.svg">raghilda.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for ragnar" src="thumbs/ragnar.png" width="120" height="139"><br /><a href="PNG/ragnar.png">ragnar.png</a><br /><a href="SVG/ragnar.svg">ragnar.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -609,14 +614,14 @@ to print them yourself.
 <img alt="Logo for readxl" src="thumbs/readxl.png" width="120" height="139"><br /><a href="PNG/readxl.png">readxl.png</a><br /><a href="SVG/readxl.svg">readxl.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for recipes" src="thumbs/recipes.png" width="120" height="139"><br /><a href="PNG/recipes.png">recipes.png</a><br /><a href="SVG/recipes.svg">recipes.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -638,14 +643,14 @@ to print them yourself.
 <img alt="Logo for rlang" src="thumbs/rlang.png" width="120" height="139"><br /><a href="PNG/rlang.png">rlang.png</a><br /><a href="SVG/rlang.svg">rlang.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for rmarkdown" src="thumbs/rmarkdown.png" width="120" height="139"><br /><a href="PNG/rmarkdown.png">rmarkdown.png</a><br /><a href="SVG/rmarkdown.svg">rmarkdown.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -667,14 +672,14 @@ to print them yourself.
 <img alt="Logo for rsample" src="thumbs/rsample.png" width="120" height="139"><br /><a href="PNG/rsample.png">rsample.png</a><br /><a href="SVG/rsample.svg">rsample.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for rsconnect" src="thumbs/rsconnect.png" width="120" height="139"><br /><a href="PNG/rsconnect.png">rsconnect.png</a><br /><a href="SVG/rsconnect.svg">rsconnect.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -696,14 +701,14 @@ to print them yourself.
 <img alt="Logo for rules" src="thumbs/rules.png" width="120" height="139"><br /><a href="PNG/rules.png">rules.png</a><br /><a href="SVG/rules.svg">rules.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for rvest" src="thumbs/rvest.png" width="120" height="139"><br /><a href="PNG/rvest.png">rvest.png</a><br /><a href="SVG/rvest.svg">rvest.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -725,14 +730,14 @@ to print them yourself.
 <img alt="Logo for shiny" src="thumbs/shiny.png" width="120" height="139"><br /><a href="PNG/shiny.png">shiny.png</a><br /><a href="SVG/shiny.svg">shiny.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for shinychat" src="thumbs/shinychat.png" width="120" height="139"><br /><a href="PNG/shinychat.png">shinychat.png</a><br /><a href="SVG/shinychat.svg">shinychat.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -754,14 +759,14 @@ to print them yourself.
 <img alt="Logo for sloop" src="thumbs/sloop.png" width="120" height="139"><br /><a href="PNG/sloop.png">sloop.png</a><br /><a href="SVG/sloop.svg">sloop.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for sortable" src="thumbs/sortable.png" width="120" height="139"><br /><a href="PNG/sortable.png">sortable.png</a><br /><a href="SVG/sortable.svg">sortable.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -783,14 +788,14 @@ to print them yourself.
 <img alt="Logo for sss" src="thumbs/sss.png" width="120" height="139"><br /><a href="PNG/sss.png">sss.png</a><br /><a href="SVG/sss.svg">sss.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for stacks" src="thumbs/stacks.png" width="120" height="139"><br /><a href="PNG/stacks.png">stacks.png</a><br /><a href="SVG/stacks.svg">stacks.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -812,14 +817,14 @@ to print them yourself.
 <img alt="Logo for tabby" src="thumbs/tabby.png" width="120" height="139"><br /><a href="PNG/tabby.png">tabby.png</a><br /><a href="SVG/tabby.svg">tabby.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for tensorflow" src="thumbs/tensorflow.png" width="120" height="139"><br /><a href="PNG/tensorflow.png">tensorflow.png</a><br /><a href="SVG/tensorflow.svg">tensorflow.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -841,14 +846,14 @@ to print them yourself.
 <img alt="Logo for tibble" src="thumbs/tibble.png" width="120" height="139"><br /><a href="PNG/tibble.png">tibble.png</a><br /><a href="SVG/tibble.svg">tibble.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for tidyclust" src="thumbs/tidyclust.png" width="120" height="139"><br /><a href="PNG/tidyclust.png">tidyclust.png</a><br /><a href="SVG/tidyclust.svg">tidyclust.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -870,14 +875,14 @@ to print them yourself.
 <img alt="Logo for tidyr" src="thumbs/tidyr.png" width="120" height="139"><br /><a href="PNG/tidyr.png">tidyr.png</a><br /><a href="SVG/tidyr.svg">tidyr.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for tidyverse" src="thumbs/tidyverse.png" width="120" height="139"><br /><a href="PNG/tidyverse.png">tidyverse.png</a><br /><a href="SVG/tidyverse.svg">tidyverse.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -899,14 +904,14 @@ to print them yourself.
 <img alt="Logo for vctrs" src="thumbs/vctrs.png" width="120" height="139"><br /><a href="PNG/vctrs.png">vctrs.png</a><br /><a href="SVG/vctrs.svg">vctrs.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for vetiver" src="thumbs/vetiver.png" width="120" height="139"><br /><a href="PNG/vetiver.png">vetiver.png</a><br /><a href="SVG/vetiver.svg">vetiver.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -928,14 +933,14 @@ to print them yourself.
 <img alt="Logo for workflowsets" src="thumbs/workflowsets.png" width="120" height="139"><br /><a href="PNG/workflowsets.png">workflowsets.png</a><br /><a href="SVG/workflowsets.svg">workflowsets.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for xaringan" src="thumbs/xaringan.png" width="120" height="139"><br /><a href="PNG/xaringan.png">xaringan.png</a><br /><a href="SVG/xaringan.svg">xaringan.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
