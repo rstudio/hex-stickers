@@ -282,7 +282,7 @@ to print them yourself.
 
 <td>
 
-<img alt="Logo for ggsql" src="thumbs/ggsql.png" width="120" height="139"><br /><a href="PNG/ggsql.png">ggsql.png</a>
+<img alt="Logo for ggsql" src="thumbs/ggsql.png" width="120" height="139"><br /><a href="PNG/ggsql.png">ggsql.png</a><br /><a href="SVG/ggsql.svg">ggsql.svg</a>
 </td>
 
 <td>
@@ -972,7 +972,7 @@ All stickers are licensed [CC0](LICENSE.md).
 
 Look for a company that offers die-cut stickers, such as
 [StickerApp](https://stickerapp.com/). We recommend using the PNG
-version of the sticker. The printed stickers should be 1.74” x 2”
+version of the sticker. The printed stickers should be 1.73” x 2”
 without rounded corners. We mostly print on vinyl with a matte finish.
 
 If you use the SVG version:
