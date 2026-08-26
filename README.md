@@ -103,6 +103,11 @@ to print them yourself.
 
 <td>
 
+<img alt="Logo for chatlas" src="thumbs/chatlas.png" width="120" height="139"><br /><a href="PNG/chatlas.png">chatlas.png</a><br /><a href="SVG/chatlas.svg">chatlas.svg</a>
+</td>
+
+<td>
+
 <img alt="Logo for chattr" src="thumbs/chattr.png" width="120" height="139"><br /><a href="PNG/chattr.png">chattr.png</a><br /><a href="SVG/chattr.svg">chattr.svg</a>
 </td>
 
