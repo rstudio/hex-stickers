@@ -74,6 +74,11 @@ to print them yourself.
 
 <td>
 
+<img alt="Logo for brulee" src="thumbs/brulee.png" width="120" height="139"><br /><a href="PNG/brulee.png">brulee.png</a><br /><a href="SVG/brulee.svg">brulee.svg</a>
+</td>
+
+<td>
+
 <img alt="Logo for bslib" src="thumbs/bslib.png" width="120" height="139"><br /><a href="PNG/bslib.png">bslib.png</a><br /><a href="SVG/bslib.svg">bslib.svg</a>
 </td>
 
@@ -87,14 +92,19 @@ to print them yourself.
 <img alt="Logo for butcher" src="thumbs/butcher.png" width="120" height="139"><br /><a href="PNG/butcher.png">butcher.png</a><br /><a href="SVG/butcher.svg">butcher.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for censored" src="thumbs/censored.png" width="120" height="139"><br /><a href="PNG/censored.png">censored.png</a><br /><a href="SVG/censored.svg">censored.svg</a>
 </td>
 
-</tr>
+<td>
 
-<tr>
+<img alt="Logo for chatlas" src="thumbs/chatlas.png" width="120" height="139"><br /><a href="PNG/chatlas.png">chatlas.png</a><br /><a href="SVG/chatlas.svg">chatlas.svg</a>
+</td>
 
 <td>
 
@@ -116,14 +126,14 @@ to print them yourself.
 <img alt="Logo for connectapi" src="thumbs/connectapi.png" width="120" height="139"><br /><a href="PNG/connectapi.png">connectapi.png</a><br /><a href="SVG/connectapi.svg">connectapi.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for connections" src="thumbs/connections.png" width="120" height="139"><br /><a href="PNG/connections.png">connections.png</a><br /><a href="SVG/connections.svg">connections.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -145,14 +155,14 @@ to print them yourself.
 <img alt="Logo for dbplyr" src="thumbs/dbplyr.png" width="120" height="139"><br /><a href="PNG/dbplyr.png">dbplyr.png</a><br /><a href="SVG/dbplyr.svg">dbplyr.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for debrief" src="thumbs/debrief.png" width="120" height="139"><br /><a href="PNG/debrief.png">debrief.png</a><br /><a href="SVG/debrief.svg">debrief.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -174,14 +184,14 @@ to print them yourself.
 <img alt="Logo for distill" src="thumbs/distill.png" width="120" height="139"><br /><a href="PNG/distill.png">distill.png</a><br /><a href="SVG/distill.svg">distill.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for dplyr" src="thumbs/dplyr.png" width="120" height="139"><br /><a href="PNG/dplyr.png">dplyr.png</a><br /><a href="SVG/dplyr.svg">dplyr.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -203,14 +213,14 @@ to print them yourself.
 <img alt="Logo for ellmer" src="thumbs/ellmer.png" width="120" height="139"><br /><a href="PNG/ellmer.png">ellmer.png</a><br /><a href="SVG/ellmer.svg">ellmer.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for embed" src="thumbs/embed.png" width="120" height="139"><br /><a href="PNG/embed.png">embed.png</a><br /><a href="SVG/embed.svg">embed.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -232,14 +242,14 @@ to print them yourself.
 <img alt="Logo for finetune" src="thumbs/finetune.png" width="120" height="139"><br /><a href="PNG/finetune.png">finetune.png</a><br /><a href="SVG/finetune.svg">finetune.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for flexdashboard" src="thumbs/flexdashboard.png" width="120" height="139"><br /><a href="PNG/flexdashboard.png">flexdashboard.png</a><br /><a href="SVG/flexdashboard.svg">flexdashboard.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -261,14 +271,14 @@ to print them yourself.
 <img alt="Logo for gganimate" src="thumbs/gganimate.png" width="120" height="139"><br /><a href="PNG/gganimate.png">gganimate.png</a><br /><a href="SVG/gganimate.svg">gganimate.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for ggplot2" src="thumbs/ggplot2.png" width="120" height="139"><br /><a href="PNG/ggplot2.png">ggplot2.png</a><br /><a href="SVG/ggplot2.svg">ggplot2.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -290,14 +300,14 @@ to print them yourself.
 <img alt="Logo for googlesheets" src="thumbs/googlesheets.png" width="120" height="139"><br /><a href="PNG/googlesheets.png">googlesheets.png</a><br /><a href="SVG/googlesheets.svg">googlesheets.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for googlesheets4" src="thumbs/googlesheets4.png" width="120" height="139"><br /><a href="PNG/googlesheets4.png">googlesheets4.png</a><br /><a href="SVG/googlesheets4.svg">googlesheets4.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -319,14 +329,14 @@ to print them yourself.
 <img alt="Logo for hardhat" src="thumbs/hardhat.png" width="120" height="139"><br /><a href="PNG/hardhat.png">hardhat.png</a><br /><a href="SVG/hardhat.svg">hardhat.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for haven" src="thumbs/haven.png" width="120" height="139"><br /><a href="PNG/haven.png">haven.png</a><br /><a href="SVG/haven.svg">haven.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -348,14 +358,14 @@ to print them yourself.
 <img alt="Logo for important" src="thumbs/important.png" width="120" height="139"><br /><a href="PNG/important.png">important.png</a><br /><a href="SVG/important.svg">important.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for infer" src="thumbs/infer.png" width="120" height="139"><br /><a href="PNG/infer.png">infer.png</a><br /><a href="SVG/infer.svg">infer.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -377,14 +387,14 @@ to print them yourself.
 <img alt="Logo for lobstr" src="thumbs/lobstr.png" width="120" height="139"><br /><a href="PNG/lobstr.png">lobstr.png</a><br /><a href="SVG/lobstr.svg">lobstr.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for lorax" src="thumbs/lorax.png" width="120" height="139"><br /><a href="PNG/lorax.png">lorax.png</a><br /><a href="SVG/lorax.svg">lorax.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -406,14 +416,14 @@ to print them yourself.
 <img alt="Logo for marquee" src="thumbs/marquee.png" width="120" height="139"><br /><a href="PNG/marquee.png">marquee.png</a><br /><a href="SVG/marquee.svg">marquee.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for miniCRAN" src="thumbs/miniCRAN.png" width="120" height="139"><br /><a href="PNG/miniCRAN.png">miniCRAN.png</a><br /><a href="SVG/miniCRAN.svg">miniCRAN.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -435,14 +445,14 @@ to print them yourself.
 <img alt="Logo for multilevelmod" src="thumbs/multilevelmod.png" width="120" height="139"><br /><a href="PNG/multilevelmod.png">multilevelmod.png</a><br /><a href="SVG/multilevelmod.svg">multilevelmod.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for odbc" src="thumbs/odbc.png" width="120" height="139"><br /><a href="PNG/odbc.png">odbc.png</a><br /><a href="SVG/odbc.svg">odbc.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -464,14 +474,14 @@ to print them yourself.
 <img alt="Logo for patchwork" src="thumbs/patchwork.png" width="120" height="139"><br /><a href="PNG/patchwork.png">patchwork.png</a><br /><a href="SVG/patchwork.svg">patchwork.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for pins" src="thumbs/pins.png" width="120" height="139"><br /><a href="PNG/pins.png">pins.png</a><br /><a href="SVG/pins.svg">pins.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -493,14 +503,14 @@ to print them yourself.
 <img alt="Logo for plsmod" src="thumbs/plsmod.png" width="120" height="139"><br /><a href="PNG/plsmod.png">plsmod.png</a><br /><a href="SVG/plsmod.svg">plsmod.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for plumber" src="thumbs/plumber.png" width="120" height="139"><br /><a href="PNG/plumber.png">plumber.png</a><br /><a href="SVG/plumber.svg">plumber.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -522,14 +532,14 @@ to print them yourself.
 <img alt="Logo for poissonreg" src="thumbs/poissonreg.png" width="120" height="139"><br /><a href="PNG/poissonreg.png">poissonreg.png</a><br /><a href="SVG/poissonreg.svg">poissonreg.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for positron" src="thumbs/positron.png" width="120" height="139"><br /><a href="PNG/positron.png">positron.png</a><br /><a href="SVG/positron.svg">positron.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -551,14 +561,14 @@ to print them yourself.
 <img alt="Logo for quarto" src="thumbs/quarto.png" width="120" height="139"><br /><a href="PNG/quarto.png">quarto.png</a><br /><a href="SVG/quarto.svg">quarto.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for querychat" src="thumbs/querychat.png" width="120" height="139"><br /><a href="PNG/querychat.png">querychat.png</a><br /><a href="SVG/querychat.svg">querychat.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
