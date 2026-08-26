@@ -28,8 +28,12 @@ invisible(Map(resize, png[outdated], thumb[outdated]))
 ```{r, results = "asis", echo = FALSE}
 img <- glue::glue('<img alt="Logo for {logos}" src="{thumb}" width="120" height="139">')
 png_link <- glue::glue('<a href="{png}">{logos}.png</a>')
-svg_link <- glue::glue('<a href="{svg}">{logos}.svg</a>')
-cell <- paste0("<td>", img, "<br />", png_link, "<br />", svg_link, "</td>")
+svg_link <- ifelse(
+  file.exists(svg),
+  glue::glue('<br /><a href="{svg}">{logos}.svg</a>'),
+  ""
+)
+cell <- paste0("<td>", img, "<br />", png_link, svg_link, "</td>")
 
 cols <- 5
 rows <- ceiling(length(cell) / cols)
