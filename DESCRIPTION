@@ -2,8 +2,8 @@ Package: rstudio-hex
 Title: Automatic 
 Version: 0.0.0.9000
 Authors@R: c(
-    person("Hadley", "Wickham", , "hadley@rstudio.com", role = c("aut", "cre")),
-    person("RStudio", role = c("cph", "fnd"))
+    person("Hadley", "Wickham", , "hadley@posit.co", role = c("aut", "cre")),
+    person("Posit", role = c("cph", "fnd"))
   )
 Description: What the package does (one paragraph).
 License: CC0

@@ -1,4 +1,4 @@
-If you're an RStudio employee, you can add new stickers to this repo by creating a pull request. The pull request should contain two files:
+If you're a Posit employee, you can add new stickers to this repo by creating a pull request. The pull request should contain two files:
 
 * A `.svg` in the `SVG` directory (with fonts converted to outlines).
 * A `.png` in the `PNG` directory (with dimensions 2521 x 2911).
