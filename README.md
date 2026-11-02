@@ -422,17 +422,22 @@ to print them yourself.
 
 <td>
 
+<img alt="Logo for mcptools" src="thumbs/mcptools.png" width="120" height="139"><br /><a href="PNG/mcptools.png">mcptools.png</a><br /><a href="SVG/mcptools.svg">mcptools.svg</a>
+</td>
+
+<td>
+
 <img alt="Logo for miniCRAN" src="thumbs/miniCRAN.png" width="120" height="139"><br /><a href="PNG/miniCRAN.png">miniCRAN.png</a><br /><a href="SVG/miniCRAN.svg">miniCRAN.svg</a>
 </td>
 
 <td>
 
-<img alt="Logo for mirai" src="thumbs/mirai.png" width="120" height="139"><br /><a href="PNG/mirai.png">mirai.png</a><br /><a href="SVG/mirai.svg">mirai.svg</a>
+<img alt="Logo for mizu" src="thumbs/mizu.png" width="120" height="139"><br /><a href="PNG/mizu.png">mizu.png</a><br /><a href="SVG/mizu.svg">mizu.svg</a>
 </td>
 
 <td>
 
-<img alt="Logo for mizu" src="thumbs/mizu.png" width="120" height="139"><br /><a href="PNG/mizu.png">mizu.png</a><br /><a href="SVG/mizu.svg">mizu.svg</a>
+<img alt="Logo for mirai" src="thumbs/mirai.png" width="120" height="139"><br /><a href="PNG/mirai.png">mirai.png</a><br /><a href="SVG/mirai.svg">mirai.svg</a>
 </td>
 
 <td>
@@ -458,6 +463,10 @@ to print them yourself.
 
 <img alt="Logo for odbc" src="thumbs/odbc.png" width="120" height="139"><br /><a href="PNG/odbc.png">odbc.png</a><br /><a href="SVG/odbc.svg">odbc.svg</a>
 </td>
+
+</tr>
+
+<tr>
 
 <td>
 
@@ -488,6 +497,10 @@ to print them yourself.
 <img alt="Logo for pins" src="thumbs/pins.png" width="120" height="139"><br /><a href="PNG/pins.png">pins.png</a><br /><a href="SVG/pins.svg">pins.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for pipe" src="thumbs/pipe.png" width="120" height="139"><br /><a href="PNG/pipe.png">pipe.png</a><br /><a href="SVG/pipe.svg">pipe.svg</a>
@@ -517,6 +530,10 @@ to print them yourself.
 <img alt="Logo for plumber" src="thumbs/plumber.png" width="120" height="139"><br /><a href="PNG/plumber.png">plumber.png</a><br /><a href="SVG/plumber.svg">plumber.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for plumber2" src="thumbs/plumber2.png" width="120" height="139"><br /><a href="PNG/plumber2.png">plumber2.png</a><br /><a href="SVG/plumber2.svg">plumber2.svg</a>
@@ -545,6 +562,10 @@ to print them yourself.
 
 <img alt="Logo for positron" src="thumbs/positron.png" width="120" height="139"><br /><a href="PNG/positron.png">positron.png</a><br /><a href="SVG/positron.svg">positron.svg</a>
 </td>
+
+</tr>
+
+<tr>
 
 <td>
 
@@ -580,14 +601,14 @@ to print them yourself.
 <img alt="Logo for quickr" src="thumbs/quickr.png" width="120" height="139"><br /><a href="PNG/quickr.png">quickr.png</a><br /><a href="SVG/quickr.svg">quickr.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for r2d3" src="thumbs/r2d3.png" width="120" height="139"><br /><a href="PNG/r2d3.png">r2d3.png</a><br /><a href="SVG/r2d3.svg">r2d3.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -609,14 +630,14 @@ to print them yourself.
 <img alt="Logo for ragnar" src="thumbs/ragnar.png" width="120" height="139"><br /><a href="PNG/ragnar.png">ragnar.png</a><br /><a href="SVG/ragnar.svg">ragnar.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for rapp" src="thumbs/rapp.png" width="120" height="139"><br /><a href="PNG/rapp.png">rapp.png</a><br /><a href="SVG/rapp.svg">rapp.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -638,14 +659,14 @@ to print them yourself.
 <img alt="Logo for recipes" src="thumbs/recipes.png" width="120" height="139"><br /><a href="PNG/recipes.png">recipes.png</a><br /><a href="SVG/recipes.svg">recipes.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for renv" src="thumbs/renv.png" width="120" height="139"><br /><a href="PNG/renv.png">renv.png</a><br /><a href="SVG/renv.svg">renv.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -667,14 +688,14 @@ to print them yourself.
 <img alt="Logo for rmarkdown" src="thumbs/rmarkdown.png" width="120" height="139"><br /><a href="PNG/rmarkdown.png">rmarkdown.png</a><br /><a href="SVG/rmarkdown.svg">rmarkdown.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for roxygen2" src="thumbs/roxygen2.png" width="120" height="139"><br /><a href="PNG/roxygen2.png">roxygen2.png</a><br /><a href="SVG/roxygen2.svg">roxygen2.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -696,14 +717,14 @@ to print them yourself.
 <img alt="Logo for rsconnect" src="thumbs/rsconnect.png" width="120" height="139"><br /><a href="PNG/rsconnect.png">rsconnect.png</a><br /><a href="SVG/rsconnect.svg">rsconnect.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for RStudio" src="thumbs/RStudio.png" width="120" height="139"><br /><a href="PNG/RStudio.png">RStudio.png</a><br /><a href="SVG/RStudio.svg">RStudio.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -725,14 +746,14 @@ to print them yourself.
 <img alt="Logo for rvest" src="thumbs/rvest.png" width="120" height="139"><br /><a href="PNG/rvest.png">rvest.png</a><br /><a href="SVG/rvest.svg">rvest.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for rwasm" src="thumbs/rwasm.png" width="120" height="139"><br /><a href="PNG/rwasm.png">rwasm.png</a><br /><a href="SVG/rwasm.svg">rwasm.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
@@ -754,14 +775,14 @@ to print them yourself.
 <img alt="Logo for shinychat" src="thumbs/shinychat.png" width="120" height="139"><br /><a href="PNG/shinychat.png">shinychat.png</a><br /><a href="SVG/shinychat.svg">shinychat.svg</a>
 </td>
 
+</tr>
+
+<tr>
+
 <td>
 
 <img alt="Logo for shinyreact" src="thumbs/shinyreact.png" width="120" height="139"><br /><a href="PNG/shinyreact.png">shinyreact.png</a><br /><a href="SVG/shinyreact.svg">shinyreact.svg</a>
 </td>
-
-</tr>
-
-<tr>
 
 <td>
 
